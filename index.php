@@ -14,7 +14,7 @@ if(isset($argv[1])){
 if(isset($argv[2])){
     $dir = $argv[2];
 }else if(isset($_GET['dir'])){
-    $pages = $_GET['dir'];
+    $dir = $_GET['dir'];
 }
 
 //Diretório para o CSV, Número máximo de páginas
