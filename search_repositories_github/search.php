@@ -36,10 +36,7 @@ function searchRepositories($token, $pages = 0, $stars = null, $first = null)
 
       echo "\nPágina $pageAtual Carregada";
     } catch (Exception $e) {
-      // echo $e->getMessage();
-      // echo $e->getTraceAsString();
-      var_dump($result);
-      echo "\nTentando Novamente\n";
+      //echo "\nTentando Novamente\n";
     }
     ob_flush();
     ob_end_flush();
