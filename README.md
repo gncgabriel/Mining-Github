@@ -23,8 +23,11 @@ php index.php 25 'C:\Users\Goku\Desktop'
 
 ### Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
 
-Basta abrir o index.php no navegador de internet, o parâmetro __pages__ irá definir a quantidade de páginas que serão buscadas e o parâmetro __dir__ irá definir o diretório onde será armazenada a planilha
+Basta abrir o index.php no navegador de internet. 
 
+`localhost/index.php`
 
-`localhost/index.php?pages=100&dir="C:\Users\Goku\Desktop"`
+O parâmetro __pages__ irá definir a quantidade de páginas que serão buscadas e o parâmetro __dir__ irá definir o diretório onde será armazenada a planilha
+
+`localhost/index.php?pages=25&dir="C:\Users\Goku\Desktop"`
 
