@@ -3,7 +3,7 @@ require_once __DIR__ . './query.php';
 require_once __DIR__ . './conection.php';
 require_once __DIR__ . './formats.php';
 
-function searchRepositories($pages = 0, $stars = null, $first = null)
+function searchRepositories($token, $pages = 0, $stars = null, $first = null)
 {
 
   ini_set('max_execution_time', 0);
@@ -13,8 +13,6 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
       throw new ErrorException($errstr, $errno, 0, $errfile, $errline);
     }
   );
-
-  $token = 'b657447b62fc302a50a68c4819a7277add983f55';
 
   $query = new Query();
 
@@ -37,13 +35,11 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
       $pageAtual++;
 
       echo "\nPágina $pageAtual Carregada";
-
     } catch (Exception $e) {
-      
+      // echo $e->getMessage();
+      // echo $e->getTraceAsString();
       var_dump($result);
-
       echo "\nTentando Novamente\n";
-     
     }
     ob_flush();
     ob_end_flush();

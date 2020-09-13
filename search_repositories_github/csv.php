@@ -1,15 +1,16 @@
-<?php 
-require_once __DIR__ . './search.php';
-function createCsv($dir, $pages = null, $stars = null)
-{
+<?php
 
-  $data = searchRepositories($pages, $stars);
-  
+function createCsv($data, $dir, $pages = null, $stars = null)
+{
   $header = array_keys($data[0][0]);
   $fileContent = '';
   $fileContent .= implode(',', $header);
   $fileContent .= "\r\n";
   $qtdResut = 0;
+  ob_start();
+  echo "\n\nGerando CSV em: $dir\n\n";
+  ob_flush();
+  ob_end_flush();
   foreach ($data as $d => $dv) {
     foreach ($data[$d] as $key => $val) {
       $fileContent .= implode(',', array_values($val));
@@ -22,9 +23,7 @@ function createCsv($dir, $pages = null, $stars = null)
   fclose($file);
 
   ob_start();
-  echo "\nRepositórios carregados com sucesso\n";
-  echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos e trouxe ' . $qtdResut . ' registros';
-  echo "\n\nArquivo CSV gerado com sucesso em: $dir\n\n";
+  echo "\nArquivo CSV gerado com sucesso\n";
   ob_flush();
   ob_end_flush();
 }

@@ -27,8 +27,8 @@ function executaQuery($query, $token)
         if($httpCode == 401){
             echo "\r\n(401) - Erro no token de acesso: " .$responseData['message'];
             die;
-            //echo "\r\n";
         }
+        echo "\r\nErro ($httpCode) - " .$responseData['message'];
     }
 
     return $responseData;
