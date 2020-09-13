@@ -7,13 +7,13 @@ $dir = __DIR__;
 $pages = 100;
 $token = "TOKEN DE ACESSO";
 
-if (isset($argv[1])) {
+if (isset($argv[1]) && $argv[1] != 'default') {
     $pages = $argv[1];
 } else if (isset($_GET['pages'])) {
     $pages = $_GET['pages'];
 }
 
-if (isset($argv[2])) {
+if (isset($argv[2]) && $argv[2] != 'default') {
     $dir = $argv[2];
 } else if (isset($_GET['dir'])) {
     $dir = $_GET['dir'];
@@ -34,7 +34,9 @@ ob_end_flush();
 
 $data = searchRepositories($token, $pages);
 
-echo "\nRepositórios carregados com sucesso\n";
-echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos';
-//Diretório para o CSV, Número máximo de páginas
-createCsv($data, $dir, $pages);
+if (count($data) > 0) {
+    echo "\nRepositórios carregados com sucesso\n";
+    echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos';
+    //Diretório para o CSV, Número máximo de páginas
+    createCsv($data, $dir, $pages);
+}
