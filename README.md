@@ -23,4 +23,4 @@ php index.php 25 'C:\Users\Goku\Desktop'
 
 ## Também é possível executar o programa pelo navegador de internet
 
-O parâmetro _pages_ irá definir a quantidade de páginas que serão buscadas e o parâmetro _dir_ irá definir o diretório onde será armazenada a planilha
+Basta abrir o index.php no navegador de internet, o parâmetro _pages_ irá definir a quantidade de páginas que serão buscadas e o parâmetro _dir_ irá definir o diretório onde será armazenada a planilha
