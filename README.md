@@ -3,7 +3,7 @@
 - PHP
 
 ## Como Executar
-O comando abaixo irá buscar 100 páginas, cada uma com 100 repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no mesmo diretório.
+O comando abaixo irá buscar 100 páginas, cada uma com 100 repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no diretório do projeto.
 
 ```bash
 php index.php
