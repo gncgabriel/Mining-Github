@@ -1,8 +1,8 @@
 # Mining-Github
-#Linguagens Utilizadas:
+# Linguagens Utilizadas:
 - PHP
 
-##Como Executar
+## Como Executar
 O comando abaixo irá buscar 100 páginas, cada uma com 100 repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no mesmo diretório.
 
 ```bash
@@ -21,6 +21,6 @@ Para alterar o diretório onde será armazenada a planilha, basta informar o dir
 php index.php 25 'C:\Users\Goku\Desktop'
 ```
 
-##Também é possível executar o programa pelo navegador de internet
+## Também é possível executar o programa pelo navegador de internet
 
 O parâmetro _pages_ irá definir a quantidade de páginas que serão buscadas e o parâmetro _dir_ irá definir o diretório onde será armazenada a planilha
