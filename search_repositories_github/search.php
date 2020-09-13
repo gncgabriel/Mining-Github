@@ -14,7 +14,7 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
     }
   );
 
-  $token = 'b657447b62fc302a50a68c4819a7277add983f55A';
+  $token = 'b657447b62fc302a50a68c4819a7277add983f55';
 
   $query = new Query();
 
