@@ -21,6 +21,10 @@ Para alterar o diretório onde será armazenada a planilha, basta informar o dir
 php index.php 25 'C:\Users\Goku\Desktop'
 ```
 
-## Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
+### Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
 
-Basta abrir o index.php no navegador de internet, o parâmetro _pages_ irá definir a quantidade de páginas que serão buscadas e o parâmetro _dir_ irá definir o diretório onde será armazenada a planilha
+Basta abrir o index.php no navegador de internet, o parâmetro __pages__ irá definir a quantidade de páginas que serão buscadas e o parâmetro __dir__ irá definir o diretório onde será armazenada a planilha
+
+```bash
+localhost/index.php?pages=100&dir="C:\Users\Goku\Desktop"
+```
