@@ -4,6 +4,7 @@ function createCsv($dir, $pages = null, $stars = null)
 {
 
   $data = searchRepositories($pages, $stars);
+  
   $header = array_keys($data[0][0]);
   $fileContent = '';
   $fileContent .= implode(',', $header);
@@ -20,5 +21,10 @@ function createCsv($dir, $pages = null, $stars = null)
   fwrite($file, $fileContent);
   fclose($file);
 
-  echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos e trouxe ' . $qtdResut . ' resultados';
+  ob_start();
+  echo "\nRepositórios carregados com sucesso\n";
+  echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos e trouxe ' . $qtdResut . ' registros';
+  echo "\n\nArquivo CSV gerado com sucesso em: $dir\n\n";
+  ob_flush();
+  ob_end_flush();
 }

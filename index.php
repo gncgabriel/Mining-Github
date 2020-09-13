@@ -17,6 +17,10 @@ if(isset($argv[2])){
     $dir = $_GET['dir'];
 }
 
+ob_start();
+echo "\nIniciando buscas de repositórios";
+ob_flush();
+ob_end_flush();
 //Diretório para o CSV, Número máximo de páginas
 createCsv($dir, $pages);
 ?>

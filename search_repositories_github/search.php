@@ -15,8 +15,8 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
   );
 
 
-  $token1 = 'ab86ac2ca95ae4a56ac305ea2194b918c8016935';
-  $token2 = 'b95af5e71fd7b7e696d2ba03a7d6c01adfd649d9';
+  $token1 = '712b574c70b8c3597e57e2890cc7cc66f2d7e283';
+  $token2 = '2da37cb04d54dcc3824182c6938898b1314d88e4';
   $token = $token1;
 
   $query = new Query();
@@ -29,7 +29,8 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
 
   $timeInit = microtime(true);
   $errs = 0;
-  while (($pageAtual <= $pages)) {
+  while (($pageAtual < $pages)) {
+    ob_start();
     try {
       $nextQuery['query'] = $query->mountQuery($stars, $first, $after);
       $result = executaQuery($nextQuery, $token);
@@ -40,8 +41,14 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
       $nodes[] = formatNode($result['data']['search']['nodes']);
       $next_page = $result["data"]["search"]["pageInfo"]["hasNextPage"];
       $pageAtual++;
+
+      echo "\nPágina $pageAtual Carregada";
+
     } catch (Exception $e) {
+      echo "\nTentando Novamente";
     }
+    ob_flush();
+    ob_end_flush();
   }
   $timeExec = round((microtime(true) - $timeInit) / 60, 2);
   $_SESSION['timeExec'] = $timeExec;
