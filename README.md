@@ -1,7 +1,7 @@
 # Mining-Github
 # Linguagens Utilizadas:
-### [PHP](https://www.php.net/) version
-[![PHP version 7.2.28](https://img.shields.io/badge/PHP-7.4.2-blue)](https://www.php.net/)
+### [PHP](https://www.php.net/)
+[![PHP version 7.2.28](https://img.shields.io/badge/PHP-7.2.28-blue)](https://www.php.net/)
 
 ## Como Executar
 O comando abaixo irá buscar 100 páginas, cada uma com o máximo de 100 repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no diretório do projeto.
