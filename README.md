@@ -1,6 +1,6 @@
 # Mining-Github
 # Linguagens Utilizadas:
-- PHP
+- PHP <img src="https://img.shields.io/badge/version-7.4.2-blue"/>
 
 ## Como Executar
 O comando abaixo irá buscar 100 páginas, cada uma com o máximo de 100 repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no diretório do projeto.
