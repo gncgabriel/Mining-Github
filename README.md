@@ -25,6 +25,6 @@ php index.php 25 'C:\Users\Goku\Desktop'
 
 Basta abrir o index.php no navegador de internet, o parâmetro __pages__ irá definir a quantidade de páginas que serão buscadas e o parâmetro __dir__ irá definir o diretório onde será armazenada a planilha
 
-```bash
-localhost/index.php?pages=100&dir="C:\Users\Goku\Desktop"
-```
+
+[localhost/index.php?pages=100&dir="C:\Users\Goku\Desktop"]
+
