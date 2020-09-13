@@ -22,7 +22,7 @@ Para alterar o diretório onde será armazenada a planilha, basta informar o dir
 php index.php 25 'C:\Users\Goku\Desktop'
 ```
 
-### Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
+#### Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
 
 Basta abrir o index.php no navegador de internet. 
 

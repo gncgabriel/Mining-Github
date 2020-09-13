@@ -15,10 +15,21 @@ function executaQuery($query, $token)
 
     // Send the request
     $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch)["http_code"]; 
 
     if ($response === FALSE) {
         die(curl_error($ch));
     }
+
     $responseData = json_decode($response, TRUE);
+
+     if($httpCode != 200){
+        if($httpCode == 401){
+            echo "\r\n(401) - Erro no token de acesso: " .$responseData['message'];
+            die;
+            //echo "\r\n";
+        }
+    }
+
     return $responseData;
 }

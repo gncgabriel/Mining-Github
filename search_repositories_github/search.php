@@ -14,10 +14,7 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
     }
   );
 
-
-  $token1 = '712b574c70b8c3597e57e2890cc7cc66f2d7e283';
-  $token2 = '2da37cb04d54dcc3824182c6938898b1314d88e4';
-  $token = $token1;
+  $token = 'b657447b62fc302a50a68c4819a7277add983f55A';
 
   $query = new Query();
 
@@ -34,9 +31,6 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
     try {
       $nextQuery['query'] = $query->mountQuery($stars, $first, $after);
       $result = executaQuery($nextQuery, $token);
-      if ($result['data']['rateLimit']['remaining'] == 0) {
-        $token = $token2;
-      }
       $after = $result["data"]["search"]["pageInfo"]["endCursor"];
       $nodes[] = formatNode($result['data']['search']['nodes']);
       $next_page = $result["data"]["search"]["pageInfo"]["hasNextPage"];
@@ -45,7 +39,11 @@ function searchRepositories($pages = 0, $stars = null, $first = null)
       echo "\nPágina $pageAtual Carregada";
 
     } catch (Exception $e) {
-      echo "\nTentando Novamente";
+      
+      var_dump($result);
+
+      echo "\nTentando Novamente\n";
+     
     }
     ob_flush();
     ob_end_flush();
