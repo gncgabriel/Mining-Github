@@ -5,7 +5,7 @@ require_once __DIR__ . './search_repositories_github/search.php';
 
 $dir = __DIR__;
 $pages = 100;
-$token = "d54fa8165912602eabfc0a2cc2dd5fd6216d25cf";
+$token = "TOKEN DE ACESSO";
 
 if (isset($argv[1])) {
     $pages = $argv[1];
@@ -17,6 +17,12 @@ if (isset($argv[2])) {
     $dir = $argv[2];
 } else if (isset($_GET['dir'])) {
     $dir = $_GET['dir'];
+}
+
+if (isset($argv[3])) {
+    $token = $argv[3];
+} else if (isset($_GET['token'])) {
+    $token = $_GET['token'];
 }
 
 ob_start();
