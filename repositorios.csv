@@ -1,301 +1,1001 @@
 Nome do Repositório,Username do Proprietário,Estrelas,Última Atualização,Pull Requests,Releases,Anos de Vida,Linguagem Primaria,Percentual de Issues Fechadas
-freeCodeCamp,freeCodeCamp,314605,13/09/2020,49,0,6,JavaScript,99
-996.ICU,996icu,251474,13/09/2020,43,0,1,Rust,0
-vue,vuejs,171887,13/09/2020,208,208,7,JavaScript,96
-free-programming-books,EbookFoundation,159364,13/09/2020,29,0,7,Não Informado,92
-react,facebook,155785,13/09/2020,114,90,7,JavaScript,95
-tensorflow,tensorflow,148328,13/09/2020,202,112,5,C++,86
-bootstrap,twbs,144057,13/09/2020,98,61,9,JavaScript,98
-awesome,sindresorhus,140800,13/09/2020,27,0,6,Não Informado,94
-coding-interview-university,jwasham,133576,13/09/2020,26,0,4,Não Informado,83
-You-Dont-Know-JS,getify,127316,13/09/2020,39,0,7,Não Informado,91
-developer-roadmap,kamranahmedse,125059,13/09/2020,4,3,3,Não Informado,94
-ohmyzsh,ohmyzsh,116102,13/09/2020,512,0,11,Shell,94
-CS-Notes,CyC2018,110770,13/09/2020,15,0,2,Java,88
-gitignore,github,107736,13/09/2020,187,0,10,Não Informado,0
-system-design-primer,donnemartin,106580,13/09/2020,64,0,3,Python,38
-vscode,microsoft,103094,13/09/2020,223,15,5,TypeScript,95
-flutter,flutter,101262,13/09/2020,185,0,5,Dart,82
-javascript,airbnb,99580,13/09/2020,40,0,8,JavaScript,92
-linux,torvalds,97347,13/09/2020,321,0,9,C,0
-public-apis,public-apis,96044,13/09/2020,190,0,4,Python,86
-d3,d3,93651,13/09/2020,1,158,10,JavaScript,100
-Python-100-Days,jackfrued,92570,13/09/2020,126,0,2,Jupyter Notebook,17
-react-native,facebook,90048,13/09/2020,248,147,5,JavaScript,96
-JavaGuide,Snailclimb,87906,13/09/2020,3,0,2,Java,94
-awesome-python,vinta,86551,13/09/2020,73,0,6,Python,100
-electron,electron,85743,13/09/2020,104,614,7,C++,90
-Python,TheAlgorithms,84698,13/09/2020,29,0,4,Python,99
-build-your-own-x,danistefanovic,82129,13/09/2020,41,0,2,Não Informado,79
-create-react-app,facebook,81810,13/09/2020,145,74,4,JavaScript,91
-javascript-algorithms,trekhleb,80796,13/09/2020,132,0,2,JavaScript,64
-the-art-of-command-line,jlevy,80273,13/09/2020,93,0,5,Não Informado,48
-axios,axios,76929,13/09/2020,59,24,6,JavaScript,92
-go,golang,76464,13/09/2020,231,0,6,Go,85
-node,nodejs,72930,13/09/2020,280,176,6,JavaScript,93
-youtube-dl,ytdl-org,70682,13/09/2020,718,299,10,Python,85
-kubernetes,kubernetes,69965,13/09/2020,850,416,6,Go,94
-free-programming-books-zh_CN,justjavac,69771,13/09/2020,5,3,7,Não Informado,0
-animate.css,animate-css,67862,13/09/2020,1,22,9,CSS,100
-terminal,microsoft,67789,13/09/2020,46,34,3,C++,82
-deno,denoland,67222,13/09/2020,44,100,2,TypeScript,80
-models,tensorflow,66044,13/09/2020,135,13,4,Python,85
-angular,angular,65912,13/09/2020,546,0,6,TypeScript,87
-computer-science,ossu,65633,13/09/2020,1,0,6,Não Informado,99
-puppeteer,puppeteer,65051,13/09/2020,32,51,3,TypeScript,72
-TypeScript,microsoft,64266,13/09/2020,215,107,6,TypeScript,84
-Font-Awesome,FortAwesome,63893,13/09/2020,18,38,8,JavaScript,67
-three.js,mrdoob,63354,13/09/2020,150,112,10,JavaScript,96
-ant-design,ant-design,63301,13/09/2020,24,363,5,TypeScript,97
-30-seconds-of-code,30-seconds,61603,13/09/2020,3,4,3,JavaScript,99
-laravel,laravel,61401,13/09/2020,0,40,9,PHP,0
-material-ui,mui-org,60914,13/09/2020,32,272,6,JavaScript,96
-fucking-algorithm,labuladong,60824,13/09/2020,62,0,0,Não Informado,90
-java-design-patterns,iluwatar,60489,13/09/2020,7,0,6,Java,64
-vue-element-admin,PanJiaChen,59674,13/09/2020,48,49,3,Vue,76
-angular.js,angular,59513,13/09/2020,82,0,10,JavaScript,96
-LeetCodeAnimation,MisterBooo,59141,13/09/2020,0,0,2,Java,87
-moby,moby,58033,13/09/2020,197,85,7,Go,82
-awesome-go,avelino,57380,13/09/2020,23,0,6,Go,97
-awesome-vue,vuejs,56308,13/09/2020,18,0,5,Não Informado,64
-webpack,webpack,55570,13/09/2020,102,234,8,JavaScript,96
-thefuck,nvbn,55447,13/09/2020,52,15,5,Python,65
-redux,reduxjs,54278,13/09/2020,8,61,5,TypeScript,98
-jquery,jquery,53946,13/09/2020,13,1,11,JavaScript,97
-storybook,storybookjs,53384,13/09/2020,90,591,4,TypeScript,90
-swift,apple,53234,13/09/2020,500,26,5,C++,0
-next.js,vercel,53122,13/09/2020,85,814,4,JavaScript,93
-reveal.js,hakimel,53069,13/09/2020,82,31,9,JavaScript,73
-atom,atom,52981,13/09/2020,155,520,8,JavaScript,96
-nodebestpractices,goldbergyoni,52267,13/09/2020,7,0,3,JavaScript,91
-flask,pallets,51988,13/09/2020,8,10,10,Python,99
-django,django,51929,13/09/2020,189,0,8,Python,0
-elasticsearch,elastic,50985,13/09/2020,376,32,10,Java,89
-socket.io,socketio,50643,13/09/2020,27,18,10,JavaScript,82
-FiraCode,tonsky,50470,13/09/2020,2,26,6,Clojure,76
-spring-boot,spring-projects,50433,13/09/2020,22,66,8,Java,97
-shadowsocks-windows,shadowsocks,50432,13/09/2020,8,47,7,C#,98
-Chart.js,chartjs,50257,13/09/2020,3,46,7,JavaScript,93
-express,expressjs,50053,13/09/2020,54,141,11,JavaScript,97
-keras,keras-team,49719,13/09/2020,103,23,5,Python,70
-json-server,typicode,49480,13/09/2020,72,7,7,JavaScript,45
-Apollo-11,chrislgarry,48991,13/09/2020,2,0,6,Assembly,76
-Semantic-UI,Semantic-Org,48443,13/09/2020,114,153,7,JavaScript,85
-awesome-selfhosted,awesome-selfhosted,48379,13/09/2020,8,0,5,JavaScript,86
-netdata,netdata,48353,13/09/2020,58,36,7,C,89
-opencv,opencv,48221,13/09/2020,82,46,8,C++,74
-rust,rust-lang,48167,13/09/2020,325,80,10,Rust,84
-markdown-here,adam-p,48167,13/09/2020,18,11,8,JavaScript,54
-httpie,httpie,48043,13/09/2020,24,34,8,Python,83
-interviews,kdn251,47612,13/09/2020,50,0,3,Java,39
-architect-awesome,xingshaocheng,47384,13/09/2020,10,0,2,Não Informado,30
-advanced-java,doocs,47219,13/09/2020,0,0,2,Java,88
-element,ElemeFE,47199,13/09/2020,323,128,4,Vue,90
-gatsby,gatsbyjs,46849,13/09/2020,148,74,5,JavaScript,95
-html5-boilerplate,h5bp,46747,13/09/2020,0,32,10,JavaScript,100
-realworld,gothinkster,46698,13/09/2020,23,0,4,JavaScript,41
-hugo,gohugoio,46587,13/09/2020,48,134,7,Go,90
-awesome-machine-learning,josephmisiti,46481,13/09/2020,0,0,6,Python,98
-lodash,lodash,46447,13/09/2020,58,2,8,JavaScript,98
-rails,rails,46386,13/09/2020,281,26,12,Ruby,97
-resume.github.com,resume,46126,13/09/2020,7,0,9,JavaScript,65
-Front-end-Developer-Interview-Questions,h5bp,45999,13/09/2020,3,0,8,HTML,96
-redis,redis,45139,13/09/2020,673,3,11,C,61
-bitcoin,bitcoin,45103,13/09/2020,398,33,10,C++,90
-tech-interview-handbook,yangshun,44828,13/09/2020,3,0,4,JavaScript,65
-moment,moment,44721,13/09/2020,47,0,9,JavaScript,95
-ansible,ansible,44718,13/09/2020,529,3,8,Python,95
-nvm,nvm-sh,44015,13/09/2020,67,53,10,Shell,83
-protobuf,protocolbuffers,43686,13/09/2020,167,56,6,C++,75
-requests,psf,43500,13/09/2020,57,0,9,Python,93
-RxJava,ReactiveX,43421,13/09/2020,0,200,7,Java,100
-nocode,kelseyhightower,43395,13/09/2020,427,1,2,Dockerfile,12
-papers-we-love,papers-we-love,42964,13/09/2020,2,0,7,Shell,91
-incubator-echarts,apache,42834,13/09/2020,65,75,7,JavaScript,87
-Front-End-Checklist,thedaviddias,42771,13/09/2020,4,1,3,Não Informado,98
-every-programmer-should-know,mtdvio,42579,13/09/2020,9,0,3,Não Informado,55
-scikit-learn,scikit-learn,42266,13/09/2020,730,20,10,Python,80
-meteor,meteor,41937,13/09/2020,36,0,8,JavaScript,99
-pytorch,pytorch,41761,13/09/2020,1902,28,4,C++,69
-ionic-framework,ionic-team,41729,13/09/2020,75,210,7,TypeScript,96
-react-router,ReactTraining,41619,13/09/2020,14,153,6,JavaScript,99
-gin,gin-gonic,41601,13/09/2020,65,13,6,Go,83
-jekyll,jekyll,41223,13/09/2020,70,98,12,Ruby,98
-bulma,jgthms,41086,13/09/2020,119,13,4,CSS,89
-material-design-icons,google,40957,13/09/2020,31,16,6,Não Informado,36
-awesome-public-datasets,awesomedata,40901,13/09/2020,56,0,6,Não Informado,50
-mall,macrozheng,40792,13/09/2020,2,1,2,Java,96
-DeepLearning-500-questions,scutan90,40687,13/09/2020,1,0,2,JavaScript,49
-normalize.css,necolas,40513,13/09/2020,18,0,9,CSS,95
-Awesome-Hacking,Hack-with-Github,40501,13/09/2020,5,0,4,Não Informado,0
-hacker-scripts,NARKOZ,39402,13/09/2020,29,0,5,JavaScript,46
-spring-framework,spring-projects,39197,13/09/2020,251,183,10,Java,95
-clean-code-javascript,ryanmcdermott,39113,13/09/2020,15,0,4,JavaScript,64
-awesome-mac,jaywcjlove,39085,13/09/2020,18,0,4,JavaScript,79
-awesome-react,enaqx,38991,13/09/2020,68,0,6,Não Informado,90
-frp,fatedier,38958,13/09/2020,6,54,5,Go,96
-yarn,yarnpkg,38956,13/09/2020,163,140,4,JavaScript,63
-TensorFlow-Examples,aymericdamien,38765,13/09/2020,51,0,5,Jupyter Notebook,30
-awesome-android-ui,wasabeef,38753,13/09/2020,39,0,6,Não Informado,0
-guava,google,38727,13/09/2020,74,29,6,Java,79
-free-for-dev,ripienaar,38545,13/09/2020,8,0,5,HTML,0
-neovim,neovim,38459,13/09/2020,268,21,6,Vim script,84
-scrapy,scrapy,38250,13/09/2020,291,17,10,Python,80
-okhttp,square,38200,13/09/2020,5,0,8,Java,98
-materialize,Dogfalo,37995,13/09/2020,187,41,6,JavaScript,88
-big-list-of-naughty-strings,minimaxir,37952,13/09/2020,22,0,5,Python,36
-awesome-nodejs,sindresorhus,37737,13/09/2020,13,0,6,Não Informado,100
-prettier,prettier,37656,13/09/2020,130,69,4,JavaScript,86
-babel,babel,37397,13/09/2020,153,217,6,JavaScript,91
-serverless,serverless,37347,13/09/2020,24,187,5,JavaScript,83
-architecture-samples,android,37307,13/09/2020,48,0,4,Kotlin,70
-nw.js,nwjs,37203,13/09/2020,6,0,8,JavaScript,89
-scrcpy,Genymobile,37198,13/09/2020,15,20,3,C,71
-grafana,grafana,37150,13/09/2020,104,189,7,TypeScript,84
-project-based-learning,tuvtran,37146,13/09/2020,60,0,3,Não Informado,52
-svelte,sveltejs,36940,13/09/2020,99,0,4,JavaScript,85
-PowerToys,microsoft,36902,13/09/2020,23,21,1,C++,71
-freecodecamp.cn,FreeCodeCampChina,36761,13/09/2020,10,0,4,CSS,76
-anime,juliangarnier,36742,13/09/2020,19,13,4,JavaScript,79
-parcel,parcel-bundler,36661,13/09/2020,37,1,3,JavaScript,83
-retrofit,square,36528,13/09/2020,14,27,10,Java,96
-leetcode,azl397985856,36330,13/09/2020,0,23,2,JavaScript,92
-tesseract,tesseract-ocr,36309,13/09/2020,12,8,6,C++,84
-face_recognition,ageitgey,36187,13/09/2020,19,2,3,Python,50
-AdminLTE,ColorlibHQ,36117,13/09/2020,20,68,7,JavaScript,97
-learn-regex,ziishaned,36071,13/09/2020,17,0,3,Não Informado,46
-awesome-interview-questions,MaximAbramchuck,36053,13/09/2020,15,0,5,Não Informado,66
-impress.js,impress,35873,12/09/2020,12,14,9,JavaScript,90
-awesome-ios,vsouza,35638,13/09/2020,1,0,6,Swift,100
-build-web-application-with-golang,astaxie,35593,13/09/2020,11,0,8,Go,61
-x64dbg,x64dbg,35544,13/09/2020,17,3,5,C++,79
-core,home-assistant,35414,13/09/2020,187,639,7,Python,94
-gogs,gogs,35373,13/09/2020,14,58,6,Go,85
-node-v0.x-archive,nodejs,35054,10/09/2020,36,0,11,Não Informado,92
-v2ray-core,v2ray,34924,13/09/2020,5,245,5,Go,95
-code-server,cdr,34908,13/09/2020,7,47,1,TypeScript,90
-you-get,soimort,34907,13/09/2020,77,105,8,Python,0
-awesome-courses,prakhar1989,34893,13/09/2020,21,0,6,Não Informado,58
-Ghost,TryGhost,34841,13/09/2020,26,352,7,JavaScript,99
-vue2-elm,bailicangdu,34381,13/09/2020,0,0,4,Vue,84
-Alamofire,Alamofire,34334,13/09/2020,7,81,6,Swift,99
-hyper,vercel,34094,13/09/2020,9,64,4,TypeScript,77
-git,git,34074,13/09/2020,30,0,12,C,0
-git-flight-rules,k88hudson,33866,13/09/2020,2,0,6,Não Informado,79
-Best-websites-a-programmer-should-visit,sdmg15,33761,13/09/2020,66,0,3,Não Informado,98
-the-book-of-secret-knowledge,trimstray,33690,13/09/2020,6,0,2,Não Informado,92
-transformers,huggingface,33591,13/09/2020,112,34,2,Python,88
-dubbo,apache,33506,13/09/2020,141,27,8,Java,84
-HelloGitHub,521xueweihan,33455,13/09/2020,0,9,4,Python,99
-cpython,python,33454,13/09/2020,1345,0,3,Python,0
-kotlin,JetBrains,33325,13/09/2020,195,147,8,Kotlin,0
-godot,godotengine,33195,13/09/2020,899,27,6,C++,80
-pm2,Unitech,33166,13/09/2020,41,107,7,JavaScript,94
-33-js-concepts,leonardomso,33115,13/09/2020,2,0,2,JavaScript,92
-syncthing,syncthing,32951,13/09/2020,14,223,7,Go,94
-AFNetworking,AFNetworking,32938,11/09/2020,9,40,9,Objective-C,99
-prometheus,prometheus,32837,13/09/2020,117,157,8,Go,93
-shadowsocks,shadowsocks,32780,13/09/2020,15,2,8,Python,0
-awesome-wechat-weapp,justjavac,32767,13/09/2020,0,0,4,Não Informado,0
-etcd,etcd-io,32738,13/09/2020,69,191,7,Go,96
-jest,facebook,32416,13/09/2020,135,112,7,TypeScript,81
-faceswap,deepfakes,32339,13/09/2020,2,3,3,Python,97
-pdf.js,mozilla,32083,13/09/2020,18,34,9,JavaScript,91
-mermaid,mermaid-js,31979,13/09/2020,5,54,6,JavaScript,79
-gulp,gulpjs,31899,13/09/2020,0,22,7,JavaScript,99
-brackets,adobe,31887,13/09/2020,161,69,9,JavaScript,73
-fzf,junegunn,31729,13/09/2020,30,0,7,Go,89
-MPAndroidChart,PhilJay,31676,13/09/2020,105,44,6,Java,62
-material-design-lite,google,31670,13/09/2020,15,14,5,HTML,84
-algorithm-visualizer,algorithm-visualizer,31574,13/09/2020,5,0,4,JavaScript,84
-Projects,karan,31559,13/09/2020,34,0,7,Não Informado,52
-discourse,discourse,31493,13/09/2020,25,0,7,Ruby,0
-hexo,hexojs,31232,13/09/2020,15,98,8,JavaScript,98
-slate,slatedocs,31121,13/09/2020,0,19,7,CSS,96
-styled-components,styled-components,30822,13/09/2020,26,106,4,JavaScript,94
-caffe,BVLC,30821,13/09/2020,284,14,7,C++,82
-jQuery-File-Upload,blueimp,30807,12/09/2020,0,0,10,PHP,99
-awesome-flutter,Solido,30788,13/09/2020,33,0,3,Dart,0
-fullPage.js,alvarotrigo,30770,13/09/2020,19,67,7,JavaScript,96
-hackathon-starter,sahat,30748,13/09/2020,4,13,7,JavaScript,97
-github-cheat-sheet,tiimgreen,30703,13/09/2020,11,0,6,Não Informado,93
-traefik,containous,30686,13/09/2020,16,306,5,Go,87
-pixi.js,pixijs,30579,13/09/2020,10,113,7,TypeScript,98
-app-ideas,florinpop17,30370,13/09/2020,26,0,1,Não Informado,77
-XX-Net,XX-net,30311,13/09/2020,1,307,5,Python,40
-shadowsocks-android,shadowsocks,30229,13/09/2020,1,167,8,Kotlin,99
-immutable-js,immutable-js,30191,13/09/2020,39,57,6,JavaScript,87
-android-open-project,Trinea,30162,13/09/2020,14,0,6,Não Informado,85
-100-Days-Of-ML-Code,Avik-Jain,30097,13/09/2020,23,0,2,Não Informado,0
-nest,nestjs,30048,13/09/2020,38,53,3,TypeScript,97
-incubator-superset,apache,30023,13/09/2020,68,13,5,Python,94
-caddy,caddyserver,29995,13/09/2020,16,74,5,Go,97
-nuxt.js,nuxt,29993,13/09/2020,8,134,4,JavaScript,94
-Java,TheAlgorithms,29891,13/09/2020,344,0,4,Java,77
-koa,koajs,29883,13/09/2020,20,0,7,JavaScript,98
-glide,bumptech,29858,13/09/2020,8,35,7,Java,96
-chinese-poetry,chinese-poetry,29855,13/09/2020,1,1,4,JavaScript,59
-DefinitelyTyped,DefinitelyTyped,29791,13/09/2020,262,1,8,TypeScript,50
-fastlane,fastlane,29748,13/09/2020,46,458,6,Ruby,99
-lottie-android,airbnb,29658,13/09/2020,4,26,4,Java,97
-deeplearningbook-chinese,exacity,29576,13/09/2020,4,7,4,TeX,73
-video.js,videojs,29422,13/09/2020,17,219,10,JavaScript,95
-huginn,huginn,29389,13/09/2020,82,0,7,Ruby,77
-julia,JuliaLang,29259,13/09/2020,838,92,9,Julia,83
-clipboard.js,zenorocha,29198,12/09/2020,7,37,5,JavaScript,97
-design-patterns-for-humans,kamranahmedse,29136,13/09/2020,4,0,3,Não Informado,86
-strapi,strapi,28925,13/09/2020,60,146,5,JavaScript,94
-Leaflet,Leaflet,28913,13/09/2020,148,22,10,JavaScript,90
-interview_internal_reference,0voice,28830,13/09/2020,1,0,1,Python,47
-foundation-sites,foundation,28765,13/09/2020,17,71,9,HTML,97
-12306,testerSunshine,28668,13/09/2020,58,1,3,Python,72
-dayjs,iamkun,28613,13/09/2020,22,86,2,JavaScript,84
-CppCoreGuidelines,isocpp,28469,13/09/2020,11,4,5,Python,83
-ShadowsocksX-NG,shadowsocks,28422,13/09/2020,6,26,4,Swift,81
-tldr,tldr-pages,28363,13/09/2020,10,0,7,Shell,87
-Deep-Learning-Papers-Reading-Roadmap,floodsung,28313,13/09/2020,38,0,4,Python,7
-Rocket.Chat,RocketChat,28251,13/09/2020,227,400,5,JavaScript,83
-php-src,php,28195,13/09/2020,283,0,9,C,0
-phaser,photonstorm,28130,13/09/2020,6,100,7,JavaScript,96
-awesome-react-native,jondot,28033,13/09/2020,32,0,5,JavaScript,61
-AndroidUtilCode,Blankj,27876,13/09/2020,3,115,4,Java,97
-phantomjs,ariya,27854,13/09/2020,0,0,10,C++,100
-es6features,lukehoban,27822,13/09/2020,19,0,6,Não Informado,65
-legacy-homebrew,Homebrew,27681,12/09/2020,0,0,11,Não Informado,100
-backbone,jashkenas,27663,13/09/2020,39,0,10,JavaScript,98
-frontend-dev-bookmarks,dypsilon,27607,12/09/2020,95,1,7,Não Informado,83
-quill,quilljs,27592,13/09/2020,55,82,8,JavaScript,67
-grpc,grpc,27524,13/09/2020,129,154,6,C++,95
-vuetify,vuetifyjs,27524,13/09/2020,51,358,4,TypeScript,86
-spark,apache,27438,13/09/2020,236,0,6,Scala,0
-tailwindcss,tailwindlabs,27369,13/09/2020,25,99,3,CSS,100
-HEAD,joshbuchea,27316,13/09/2020,5,0,4,Não Informado,87
-awesome-cpp,fffaraz,27294,13/09/2020,46,0,6,Não Informado,32
-ijkplayer,bilibili,27273,13/09/2020,52,0,7,C,50
-og-aws,open-guides,27269,13/09/2020,7,0,4,Shell,39
-awesome-scalability,binhnguyennus,27267,13/09/2020,0,0,3,Não Informado,0
-certbot,certbot,27157,13/09/2020,56,10,6,Python,90
-what-happens-when,alex,27134,13/09/2020,48,0,7,Não Informado,19
-preact,preactjs,27100,13/09/2020,79,135,5,JavaScript,91
-gold-miner,xitu,27090,13/09/2020,17,0,5,Não Informado,99
-android_guides,codepath,26966,13/09/2020,3,0,7,Não Informado,58
-taro,NervJS,26872,13/09/2020,33,42,2,JavaScript,89
-kong,Kong,26849,13/09/2020,68,90,6,Lua,89
-todomvc,tastejs,26847,13/09/2020,57,5,9,JavaScript,84
-AiLearning,apachecn,26811,13/09/2020,0,2,3,Python,62
-SecLists,danielmiessler,26736,13/09/2020,14,10,8,PHP,84
-go-ethereum,ethereum,26720,13/09/2020,98,134,7,Go,97
-async,caolan,26713,12/09/2020,1,7,10,JavaScript,100
-awesome-awesomeness,bayandin,26567,13/09/2020,1,0,6,Ruby,88
-pandas,pandas-dev,26497,13/09/2020,184,64,10,Python,82
-ant-design-pro,ant-design,26446,13/09/2020,1,19,3,TypeScript,99
-localstack,localstack,26313,13/09/2020,13,17,4,Python,87
-vue-cli,vuejs,26309,13/09/2020,60,135,5,JavaScript,89
-react-boilerplate,react-boilerplate,26272,13/09/2020,14,16,5,JavaScript,98
-wrk,wg,26180,13/09/2020,47,0,8,C,70
-zxing,zxing,26163,13/09/2020,0,26,9,Java,99
-awesome-java,akullpp,26074,13/09/2020,18,0,6,Não Informado,96
-slick,kenwheeler,26039,13/09/2020,192,48,6,JavaScript,69
-sentry,getsentry,26038,13/09/2020,204,59,10,Python,76
-python-patterns,faif,25823,13/09/2020,0,0,8,Python,85
-front-end-interview-handbook,yangshun,25791,13/09/2020,2,0,2,JavaScript,78
+freeCodeCamp,freeCodeCamp,314741,16/09/2020,13126,0,6,JavaScript,99
+996.ICU,996icu,251615,16/09/2020,1020,0,1,Rust,0
+vue,vuejs,172100,16/09/2020,974,208,7,JavaScript,96
+free-programming-books,EbookFoundation,159569,16/09/2020,2577,0,7,Não Informado,92
+react,facebook,155953,16/09/2020,7028,90,7,JavaScript,95
+tensorflow,tensorflow,148435,16/09/2020,10463,112,5,C++,87
+bootstrap,twbs,144123,16/09/2020,6037,61,9,JavaScript,98
+awesome,sindresorhus,140971,16/09/2020,493,0,6,Não Informado,94
+coding-interview-university,jwasham,134919,16/09/2020,183,0,4,Não Informado,83
+You-Dont-Know-JS,getify,127427,16/09/2020,349,0,7,Não Informado,91
+developer-roadmap,kamranahmedse,126019,16/09/2020,57,3,3,Não Informado,94
+ohmyzsh,ohmyzsh,116260,16/09/2020,2308,0,11,Shell,94
+CS-Notes,CyC2018,111032,16/09/2020,361,0,2,Java,88
+gitignore,github,107879,16/09/2020,1414,0,10,Não Informado,0
+system-design-primer,donnemartin,106861,16/09/2020,183,0,3,Python,38
+vscode,microsoft,103265,16/09/2020,5667,15,5,TypeScript,95
+flutter,flutter,101478,16/09/2020,16367,0,5,Dart,82
+javascript,airbnb,99684,16/09/2020,740,0,8,JavaScript,93
+linux,torvalds,97484,16/09/2020,9,0,9,C,0
+public-apis,public-apis,96295,16/09/2020,785,0,4,Python,86
+d3,d3,93706,16/09/2020,435,158,10,JavaScript,100
+Python-100-Days,jackfrued,92692,16/09/2020,12,0,2,Jupyter Notebook,17
+react-native,facebook,90117,16/09/2020,614,147,5,JavaScript,96
+JavaGuide,Snailclimb,88104,16/09/2020,321,0,2,Java,94
+awesome-python,vinta,86671,16/09/2020,504,0,6,Python,100
+electron,electron,85801,16/09/2020,10012,618,7,C++,90
+Python,TheAlgorithms,85599,16/09/2020,1148,0,4,Python,99
+build-your-own-x,danistefanovic,82315,16/09/2020,82,0,2,Não Informado,79
+create-react-app,facebook,81901,16/09/2020,1802,74,4,JavaScript,91
+javascript-algorithms,trekhleb,80937,16/09/2020,156,0,2,JavaScript,64
+the-art-of-command-line,jlevy,80339,16/09/2020,303,0,5,Não Informado,48
+axios,axios,77025,16/09/2020,351,24,6,JavaScript,92
+go,golang,76570,16/09/2020,0,0,6,Go,85
+node,nodejs,73002,16/09/2020,2490,179,6,JavaScript,93
+youtube-dl,ytdl-org,70821,16/09/2020,1427,300,10,Python,85
+kubernetes,kubernetes,70061,16/09/2020,44458,419,6,Go,94
+free-programming-books-zh_CN,justjavac,69861,16/09/2020,268,3,7,Não Informado,0
+animate.css,animate-css,67892,16/09/2020,169,22,9,CSS,100
+terminal,microsoft,67863,16/09/2020,1351,34,3,C++,82
+deno,denoland,67352,16/09/2020,3372,100,2,TypeScript,80
+models,tensorflow,66123,16/09/2020,2090,13,4,Python,85
+angular,angular,66018,16/09/2020,2921,0,6,TypeScript,87
+computer-science,ossu,65795,16/09/2020,171,0,6,Não Informado,99
+puppeteer,puppeteer,65134,16/09/2020,1702,51,3,TypeScript,72
+TypeScript,microsoft,64354,16/09/2020,9879,107,6,TypeScript,84
+Font-Awesome,FortAwesome,63911,16/09/2020,179,38,8,JavaScript,67
+three.js,mrdoob,63431,16/09/2020,7581,112,10,JavaScript,96
+ant-design,ant-design,63381,16/09/2020,6294,363,5,TypeScript,97
+fucking-algorithm,labuladong,61906,16/09/2020,118,0,0,Não Informado,90
+30-seconds-of-code,30-seconds,61781,16/09/2020,669,4,3,JavaScript,100
+laravel,laravel,61462,16/09/2020,1251,40,9,PHP,0
+material-ui,mui-org,61016,16/09/2020,8704,273,6,JavaScript,96
+java-design-patterns,iluwatar,60567,16/09/2020,624,0,6,Java,64
+vue-element-admin,PanJiaChen,59794,16/09/2020,313,49,3,Vue,76
+angular.js,angular,59513,16/09/2020,783,0,10,JavaScript,96
+LeetCodeAnimation,MisterBooo,59233,16/09/2020,61,0,2,Java,87
+moby,moby,58065,16/09/2020,16428,85,7,Go,82
+awesome-go,avelino,57464,16/09/2020,2181,0,6,Go,97
+awesome-vue,vuejs,56374,16/09/2020,2949,0,5,Não Informado,64
+webpack,webpack,55602,16/09/2020,3111,234,8,JavaScript,96
+thefuck,nvbn,55487,16/09/2020,416,15,5,Python,65
+redux,reduxjs,54301,16/09/2020,1325,61,5,TypeScript,98
+jquery,jquery,53971,16/09/2020,488,1,11,JavaScript,97
+swift,apple,53480,16/09/2020,29682,27,5,C++,0
+storybook,storybookjs,53467,16/09/2020,4781,592,4,TypeScript,89
+next.js,vercel,53282,16/09/2020,5290,820,4,JavaScript,93
+reveal.js,hakimel,53092,16/09/2020,338,31,9,JavaScript,73
+atom,atom,53010,16/09/2020,3641,520,8,JavaScript,96
+nodebestpractices,goldbergyoni,52430,16/09/2020,462,0,3,JavaScript,93
+flask,pallets,52019,16/09/2020,1077,10,10,Python,99
+django,django,51988,16/09/2020,5880,0,8,Python,0
+elasticsearch,elastic,51104,16/09/2020,30835,32,10,Java,89
+socket.io,socketio,50675,16/09/2020,376,18,10,JavaScript,82
+FiraCode,tonsky,50564,16/09/2020,94,26,6,Clojure,76
+spring-boot,spring-projects,50518,16/09/2020,41,66,8,Java,97
+shadowsocks-windows,shadowsocks,50441,16/09/2020,222,47,7,C#,98
+Chart.js,chartjs,50291,16/09/2020,1731,46,7,JavaScript,93
+express,expressjs,50127,16/09/2020,210,141,11,JavaScript,97
+keras,keras-team,49745,16/09/2020,2403,23,5,Python,70
+json-server,typicode,49538,16/09/2020,92,7,7,JavaScript,45
+Apollo-11,chrislgarry,49014,16/09/2020,246,0,6,Assembly,76
+awesome-selfhosted,awesome-selfhosted,48460,16/09/2020,1358,0,5,JavaScript,86
+Semantic-UI,Semantic-Org,48456,16/09/2020,351,153,7,JavaScript,85
+netdata,netdata,48402,16/09/2020,3694,37,7,C,89
+opencv,opencv,48308,16/09/2020,8949,46,8,C++,74
+rust,rust-lang,48258,16/09/2020,30421,80,10,Rust,84
+markdown-here,adam-p,48223,16/09/2020,20,11,8,JavaScript,54
+httpie,httpie,48077,16/09/2020,128,34,8,Python,83
+interviews,kdn251,47668,16/09/2020,42,0,3,Java,39
+architect-awesome,xingshaocheng,47428,16/09/2020,49,0,2,Não Informado,30
+advanced-java,doocs,47321,16/09/2020,56,0,2,Java,88
+element,ElemeFE,47258,16/09/2020,3063,128,4,Vue,90
+gatsby,gatsbyjs,46893,16/09/2020,12832,74,5,JavaScript,95
+realworld,gothinkster,46814,16/09/2020,133,0,4,JavaScript,42
+html5-boilerplate,h5bp,46763,16/09/2020,392,32,10,JavaScript,100
+hugo,gohugoio,46652,16/09/2020,1185,136,7,Go,90
+awesome-machine-learning,josephmisiti,46534,16/09/2020,608,0,6,Python,98
+lodash,lodash,46507,16/09/2020,569,2,8,JavaScript,97
+rails,rails,46457,16/09/2020,17220,26,12,Ruby,97
+resume.github.com,resume,46161,16/09/2020,84,0,9,JavaScript,65
+Front-end-Developer-Interview-Questions,h5bp,46040,16/09/2020,334,0,8,HTML,96
+redis,redis,45202,16/09/2020,1279,3,11,C,61
+bitcoin,bitcoin,45137,16/09/2020,9250,33,10,C++,90
+tech-interview-handbook,yangshun,44891,16/09/2020,118,0,4,JavaScript,65
+moment,moment,44840,16/09/2020,694,0,9,JavaScript,98
+ansible,ansible,44760,16/09/2020,32068,3,8,Python,95
+nvm,nvm-sh,44068,16/09/2020,567,53,10,Shell,83
+protobuf,protocolbuffers,43741,16/09/2020,2735,56,6,C++,76
+requests,psf,43516,16/09/2020,1346,0,9,Python,93
+nocode,kelseyhightower,43443,16/09/2020,1,1,2,Dockerfile,12
+RxJava,ReactiveX,43437,16/09/2020,2897,200,7,Java,100
+papers-we-love,papers-we-love,42986,16/09/2020,382,0,7,Shell,92
+incubator-echarts,apache,42874,16/09/2020,547,75,7,JavaScript,87
+Front-End-Checklist,thedaviddias,42813,16/09/2020,155,1,3,Não Informado,98
+every-programmer-should-know,mtdvio,42610,16/09/2020,83,0,3,Não Informado,55
+scikit-learn,scikit-learn,42295,16/09/2020,6746,20,10,Python,80
+meteor,meteor,41944,16/09/2020,1240,0,8,JavaScript,99
+pytorch,pytorch,41832,16/09/2020,4203,28,4,C++,69
+ionic-framework,ionic-team,41749,16/09/2020,2490,210,7,TypeScript,96
+gin,gin-gonic,41681,16/09/2020,645,13,6,Go,83
+react-router,ReactTraining,41648,16/09/2020,1179,153,6,JavaScript,99
+jekyll,jekyll,41250,16/09/2020,2816,98,12,Ruby,98
+bulma,jgthms,41132,16/09/2020,526,13,4,CSS,89
+material-design-icons,google,40996,16/09/2020,28,16,6,Não Informado,36
+mall,macrozheng,40979,16/09/2020,0,1,2,Java,96
+awesome-public-datasets,awesomedata,40947,16/09/2020,187,0,6,Não Informado,50
+DeepLearning-500-questions,scutan90,40723,16/09/2020,297,0,2,JavaScript,49
+normalize.css,necolas,40568,16/09/2020,56,0,9,CSS,95
+Awesome-Hacking,Hack-with-Github,40554,16/09/2020,21,0,4,Não Informado,0
+hacker-scripts,NARKOZ,39412,16/09/2020,62,0,5,JavaScript,46
+spring-framework,spring-projects,39262,16/09/2020,586,188,10,Java,96
+clean-code-javascript,ryanmcdermott,39167,16/09/2020,141,0,4,JavaScript,64
+awesome-mac,jaywcjlove,39128,16/09/2020,484,0,4,JavaScript,79
+awesome-react,enaqx,39066,16/09/2020,705,0,6,Não Informado,90
+frp,fatedier,39053,16/09/2020,259,54,5,Go,96
+yarn,yarnpkg,38990,16/09/2020,1651,140,4,JavaScript,63
+TensorFlow-Examples,aymericdamien,38805,16/09/2020,84,0,5,Jupyter Notebook,30
+awesome-android-ui,wasabeef,38778,16/09/2020,60,0,6,Não Informado,0
+guava,google,38760,16/09/2020,248,29,6,Java,79
+free-for-dev,ripienaar,38587,16/09/2020,1220,0,5,HTML,0
+neovim,neovim,38526,16/09/2020,4442,21,6,Vim script,84
+scrapy,scrapy,38281,16/09/2020,1575,17,10,Python,80
+okhttp,square,38228,16/09/2020,2449,0,8,Java,98
+awesome-nodejs,sindresorhus,38053,16/09/2020,359,0,6,Não Informado,100
+materialize,Dogfalo,38000,16/09/2020,449,41,6,JavaScript,88
+big-list-of-naughty-strings,minimaxir,37960,16/09/2020,89,0,5,Python,36
+prettier,prettier,37687,16/09/2020,3897,70,4,JavaScript,86
+babel,babel,37421,16/09/2020,3601,217,6,JavaScript,91
+serverless,serverless,37381,16/09/2020,2947,188,5,JavaScript,83
+scrcpy,Genymobile,37340,16/09/2020,23,20,3,C,71
+architecture-samples,android,37330,16/09/2020,172,0,4,Kotlin,70
+project-based-learning,tuvtran,37254,16/09/2020,125,0,3,Não Informado,52
+nw.js,nwjs,37213,16/09/2020,561,0,8,JavaScript,89
+grafana,grafana,37187,16/09/2020,8286,189,7,TypeScript,84
+PowerToys,microsoft,37094,16/09/2020,1470,21,1,C++,72
+svelte,sveltejs,37017,16/09/2020,1802,0,4,JavaScript,85
+anime,juliangarnier,36767,16/09/2020,66,13,4,JavaScript,79
+freecodecamp.cn,FreeCodeCampChina,36759,16/09/2020,55,0,4,CSS,76
+parcel,parcel-bundler,36691,16/09/2020,1299,1,3,JavaScript,83
+retrofit,square,36556,16/09/2020,714,27,10,Java,96
+leetcode,azl397985856,36430,16/09/2020,188,23,2,JavaScript,91
+tesseract,tesseract-ocr,36360,16/09/2020,1034,8,6,C++,84
+face_recognition,ageitgey,36242,16/09/2020,75,2,3,Python,50
+AdminLTE,ColorlibHQ,36145,16/09/2020,429,68,7,JavaScript,97
+learn-regex,ziishaned,36105,16/09/2020,104,0,3,Não Informado,46
+awesome-interview-questions,MaximAbramchuck,36092,16/09/2020,138,0,5,Não Informado,63
+impress.js,impress,35877,16/09/2020,93,14,9,JavaScript,90
+awesome-ios,vsouza,35657,16/09/2020,2126,0,6,Swift,100
+build-web-application-with-golang,astaxie,35627,16/09/2020,730,0,8,Go,61
+x64dbg,x64dbg,35560,16/09/2020,462,3,5,C++,79
+core,home-assistant,35469,16/09/2020,19585,643,7,Python,94
+gogs,gogs,35393,16/09/2020,1125,58,6,Go,85
+node-v0.x-archive,nodejs,35055,14/09/2020,218,0,11,Não Informado,92
+code-server,cdr,35005,16/09/2020,250,47,1,TypeScript,90
+v2ray-core,v2ray,34964,16/09/2020,197,245,5,Go,95
+you-get,soimort,34957,16/09/2020,515,105,8,Python,0
+awesome-courses,prakhar1989,34916,16/09/2020,183,0,6,Não Informado,58
+Ghost,TryGhost,34873,16/09/2020,4926,353,7,JavaScript,99
+vue2-elm,bailicangdu,34419,16/09/2020,20,0,4,Vue,84
+Alamofire,Alamofire,34354,16/09/2020,465,81,6,Swift,99
+hyper,vercel,34118,16/09/2020,1408,64,4,TypeScript,77
+git,git,34104,16/09/2020,2,0,12,C,0
+git-flight-rules,k88hudson,33874,16/09/2020,200,0,6,Não Informado,79
+Best-websites-a-programmer-should-visit,sdmg15,33783,16/09/2020,240,0,3,Não Informado,98
+transformers,huggingface,33745,16/09/2020,2169,34,2,Python,88
+the-book-of-secret-knowledge,trimstray,33725,16/09/2020,91,0,2,Não Informado,92
+dubbo,apache,33542,16/09/2020,1698,27,8,Java,84
+HelloGitHub,521xueweihan,33533,16/09/2020,12,9,4,Python,99
+cpython,python,33512,16/09/2020,17764,0,3,Python,0
+kotlin,JetBrains,33368,16/09/2020,1528,147,8,Kotlin,0
+godot,godotengine,33264,16/09/2020,13242,27,6,C++,80
+pm2,Unitech,33190,16/09/2020,497,107,7,JavaScript,94
+33-js-concepts,leonardomso,33149,16/09/2020,95,0,2,JavaScript,92
+syncthing,syncthing,32994,16/09/2020,1611,223,7,Go,94
+AFNetworking,AFNetworking,32946,16/09/2020,703,40,9,Objective-C,99
+prometheus,prometheus,32899,16/09/2020,3327,157,8,Go,93
+awesome-wechat-weapp,justjavac,32795,16/09/2020,233,0,4,Não Informado,0
+etcd,etcd-io,32787,16/09/2020,6011,191,7,Go,96
+shadowsocks,shadowsocks,32780,16/09/2020,70,2,8,Python,0
+jest,facebook,32459,16/09/2020,3742,112,7,TypeScript,81
+faceswap,deepfakes,32373,16/09/2020,309,3,3,Python,97
+pdf.js,mozilla,32132,16/09/2020,4482,34,9,JavaScript,91
+mermaid,mermaid-js,32019,16/09/2020,465,54,6,JavaScript,78
+brackets,adobe,31910,16/09/2020,4332,69,9,JavaScript,73
+gulp,gulpjs,31905,16/09/2020,386,22,7,JavaScript,99
+fzf,junegunn,31794,16/09/2020,243,0,7,Go,89
+MPAndroidChart,PhilJay,31703,16/09/2020,189,44,6,Java,62
+material-design-lite,google,31670,16/09/2020,655,14,5,HTML,84
+Projects,karan,31591,16/09/2020,19,0,7,Não Informado,52
+algorithm-visualizer,algorithm-visualizer,31590,16/09/2020,178,0,4,JavaScript,84
+discourse,discourse,31510,16/09/2020,8544,0,7,Ruby,0
+hexo,hexojs,31284,16/09/2020,689,98,8,JavaScript,98
+slate,slatedocs,31134,16/09/2020,212,19,7,CSS,96
+styled-components,styled-components,30885,16/09/2020,770,106,4,JavaScript,93
+awesome-flutter,Solido,30862,16/09/2020,345,0,3,Dart,0
+caffe,BVLC,30845,16/09/2020,1087,14,7,C++,82
+jQuery-File-Upload,blueimp,30816,16/09/2020,115,0,10,PHP,99
+fullPage.js,alvarotrigo,30794,16/09/2020,261,67,7,JavaScript,96
+hackathon-starter,sahat,30763,16/09/2020,292,13,7,JavaScript,97
+traefik,traefik,30741,16/09/2020,2776,307,5,Go,87
+github-cheat-sheet,tiimgreen,30711,16/09/2020,125,0,6,Não Informado,93
+pixi.js,pixijs,30598,16/09/2020,1909,113,7,TypeScript,98
+app-ideas,florinpop17,30516,16/09/2020,149,0,1,Não Informado,77
+XX-Net,XX-net,30317,16/09/2020,359,307,5,Python,40
+shadowsocks-android,shadowsocks,30240,16/09/2020,228,167,8,Kotlin,99
+immutable-js,immutable-js,30205,16/09/2020,379,57,6,JavaScript,87
+nuxt.js,nuxt,30196,16/09/2020,1981,134,4,JavaScript,94
+nest,nestjs,30189,16/09/2020,2047,53,3,TypeScript,97
+android-open-project,Trinea,30173,16/09/2020,201,0,6,Não Informado,85
+100-Days-Of-ML-Code,Avik-Jain,30125,16/09/2020,6,0,2,Não Informado,0
+incubator-superset,apache,30087,16/09/2020,4756,14,5,Python,94
+caddy,caddyserver,30035,16/09/2020,1044,74,5,Go,97
+Java,TheAlgorithms,29984,16/09/2020,458,0,4,Java,76
+koa,koajs,29894,16/09/2020,391,0,7,JavaScript,98
+DefinitelyTyped,DefinitelyTyped,29892,16/09/2020,34033,1,8,TypeScript,50
+chinese-poetry,chinese-poetry,29884,16/09/2020,81,1,4,JavaScript,59
+glide,bumptech,29877,16/09/2020,347,35,7,Java,96
+fastlane,fastlane,29766,16/09/2020,5161,459,6,Ruby,99
+lottie-android,airbnb,29686,16/09/2020,380,26,4,Java,97
+deeplearningbook-chinese,exacity,29605,16/09/2020,16,7,4,TeX,73
+video.js,videojs,29462,16/09/2020,1300,219,10,JavaScript,95
+huginn,huginn,29432,16/09/2020,892,0,7,Ruby,77
+julia,JuliaLang,29318,16/09/2020,15122,92,9,Julia,83
+clipboard.js,zenorocha,29209,16/09/2020,67,37,5,JavaScript,97
+design-patterns-for-humans,kamranahmedse,29172,16/09/2020,47,0,3,Não Informado,86
+dayjs,iamkun,29023,16/09/2020,445,86,2,JavaScript,84
+strapi,strapi,29005,16/09/2020,2534,147,5,JavaScript,94
+Leaflet,Leaflet,28959,16/09/2020,2085,22,10,JavaScript,90
+interview_internal_reference,0voice,28869,16/09/2020,35,0,1,Python,47
+foundation-sites,foundation,28767,16/09/2020,2913,71,9,HTML,97
+12306,testerSunshine,28679,16/09/2020,31,1,3,Python,71
+CppCoreGuidelines,isocpp,28496,16/09/2020,656,4,5,Python,83
+ShadowsocksX-NG,shadowsocks,28432,16/09/2020,58,26,4,Swift,81
+tldr,tldr-pages,28403,16/09/2020,3249,0,7,Shell,87
+Deep-Learning-Papers-Reading-Roadmap,floodsung,28332,16/09/2020,22,0,4,Python,7
+Rocket.Chat,RocketChat,28276,16/09/2020,5918,400,5,JavaScript,83
+php-src,php,28217,16/09/2020,636,0,9,C,0
+phaser,photonstorm,28144,16/09/2020,1309,100,7,JavaScript,96
+awesome-react-native,jondot,28074,16/09/2020,864,0,5,JavaScript,61
+AndroidUtilCode,Blankj,27901,16/09/2020,68,115,4,Java,97
+phantomjs,ariya,27870,16/09/2020,562,0,10,C++,100
+es6features,lukehoban,27830,16/09/2020,41,0,6,Não Informado,65
+legacy-homebrew,Homebrew,27679,16/09/2020,222,0,11,Não Informado,100
+backbone,jashkenas,27664,16/09/2020,851,0,10,JavaScript,98
+quill,quilljs,27624,16/09/2020,200,82,8,JavaScript,67
+frontend-dev-bookmarks,dypsilon,27622,16/09/2020,129,1,7,Não Informado,83
+vuetify,vuetifyjs,27568,16/09/2020,2328,358,4,TypeScript,86
+grpc,grpc,27554,16/09/2020,12127,154,6,C++,95
+tailwindcss,tailwindlabs,27487,16/09/2020,714,100,3,CSS,100
+spark,apache,27478,16/09/2020,4,0,6,Scala,0
+awesome-cpp,fffaraz,27331,16/09/2020,407,0,6,Não Informado,32
+HEAD,joshbuchea,27322,16/09/2020,83,0,4,Não Informado,87
+awesome-scalability,binhnguyennus,27305,16/09/2020,22,0,3,Não Informado,0
+ijkplayer,bilibili,27304,16/09/2020,29,0,7,C,50
+og-aws,open-guides,27286,16/09/2020,474,0,4,Shell,39
+what-happens-when,alex,27170,16/09/2020,105,0,7,Não Informado,19
+certbot,certbot,27164,16/09/2020,3005,10,6,Python,90
+preact,preactjs,27138,16/09/2020,939,135,5,JavaScript,91
+gold-miner,xitu,27112,16/09/2020,2588,0,5,Não Informado,99
+android_guides,codepath,26968,16/09/2020,9,0,7,Não Informado,58
+taro,NervJS,26912,16/09/2020,1102,42,2,JavaScript,89
+kong,Kong,26881,16/09/2020,2175,90,6,Lua,89
+AiLearning,apachecn,26871,16/09/2020,461,2,3,Python,62
+todomvc,tastejs,26853,16/09/2020,714,5,9,JavaScript,84
+SecLists,danielmiessler,26796,16/09/2020,294,10,8,PHP,91
+go-ethereum,ethereum,26741,16/09/2020,4045,134,7,Go,97
+async,caolan,26722,16/09/2020,410,7,10,JavaScript,100
+awesome-awesomeness,bayandin,26579,16/09/2020,173,0,6,Ruby,88
+pandas,pandas-dev,26550,16/09/2020,12921,64,10,Python,82
+ant-design-pro,ant-design,26489,16/09/2020,796,19,3,TypeScript,99
+localstack,localstack,26380,16/09/2020,1036,18,4,Python,87
+vue-cli,vuejs,26331,16/09/2020,1012,135,5,JavaScript,89
+react-boilerplate,react-boilerplate,26291,16/09/2020,715,16,5,JavaScript,98
+wrk,wg,26205,16/09/2020,0,0,8,C,70
+zxing,zxing,26191,16/09/2020,157,26,9,Java,99
+awesome-java,akullpp,26100,16/09/2020,548,0,6,Não Informado,96
+sentry,getsentry,26078,16/09/2020,14954,60,10,Python,76
+slick,kenwheeler,26051,16/09/2020,235,48,6,JavaScript,69
+python-patterns,faif,25847,16/09/2020,234,0,8,Python,85
+front-end-interview-handbook,yangshun,25828,16/09/2020,163,0,2,JavaScript,78
+trackerslist,ngosang,25754,16/09/2020,1,0,4,Não Informado,99
+mkcert,FiloSottile,25721,16/09/2020,42,11,2,Go,74
+programmer-job-blacklist,shengxinjing,25661,16/09/2020,16,0,4,Shell,58
+new-pac,Alvin9999,25575,16/09/2020,0,0,4,Não Informado,77
+proxyee-down,proxyee-down-org,25559,16/09/2020,16,49,3,Java,0
+underscore,jashkenas,25526,15/09/2020,711,0,11,JavaScript,98
+uni-app,dcloudio,25495,16/09/2020,133,0,2,JavaScript,71
+PythonDataScienceHandbook,jakevdp,25484,16/09/2020,28,0,4,Jupyter Notebook,39
+500lines,aosabook,25467,16/09/2020,175,0,7,JavaScript,59
+butterknife,JakeWharton,25448,16/09/2020,346,0,7,Java,92
+styleguide,google,25395,16/09/2020,118,0,5,HTML,36
+manim,3b1b,25391,16/09/2020,348,0,5,Python,65
+carbon,carbon-app,25285,16/09/2020,505,186,3,JavaScript,96
+leakcanary,square,25258,16/09/2020,636,24,5,Kotlin,96
+pure-bash-bible,dylanaraps,25257,16/09/2020,26,0,2,Shell,54
+alacritty,alacritty,25238,16/09/2020,1067,40,4,Rust,87
+JCSprout,crossoverJie,25236,16/09/2020,69,0,3,Java,66
+tidb,pingcap,25082,16/09/2020,12412,109,5,Go,71
+faker.js,Marak,25079,16/09/2020,250,0,10,JavaScript,65
+pi-hole,pi-hole,25011,16/09/2020,1129,61,6,Shell,92
+weui,Tencent,24983,16/09/2020,165,19,6,CSS,96
+GitHub-Chinese-Top-Charts,kon9chunkit,24969,16/09/2020,0,0,1,Java,36
+bert,google-research,24875,16/09/2020,32,0,2,Python,32
+beego,astaxie,24871,16/09/2020,866,6,8,Go,75
+iina,iina,24831,16/09/2020,370,33,4,Swift,64
+request,request,24803,16/09/2020,650,0,9,JavaScript,94
+swiper,nolimits4web,24780,16/09/2020,252,0,8,JavaScript,95
+basics,madewithml,24775,16/09/2020,138,0,2,Jupyter Notebook,100
+vuex,vuejs,24739,16/09/2020,583,43,5,JavaScript,96
+open-source-ios-apps,dkhamsing,24734,16/09/2020,575,34,5,Swift,100
+netty,netty,24728,16/09/2020,1557,0,10,Java,92
+Faker,fzaninotto,24682,16/09/2020,795,11,9,PHP,87
+nativefier,jiahaog,24664,16/09/2020,143,42,5,TypeScript,79
+select2,select2,24638,16/09/2020,664,28,8,JavaScript,99
+formik,formium,24592,16/09/2020,641,133,3,TypeScript,65
+nylas-mail,nylas,24545,15/09/2020,139,53,6,JavaScript,71
+Modernizr,Modernizr,24531,16/09/2020,760,18,11,JavaScript,89
+lerna,lerna,24501,16/09/2020,579,168,5,JavaScript,75
+funNLP,fighting41love,24464,16/09/2020,9,0,2,Python,81
+hangzhou_house_knowledge,houshanren,24360,16/09/2020,4,0,2,CSS,0
+standard,standard,24308,16/09/2020,293,4,5,JavaScript,88
+gitflow,nvie,24297,16/09/2020,36,0,10,Shell,35
+machine-learning-for-software-engineers,ZuzooVn,24245,16/09/2020,53,0,4,Não Informado,19
+istio,istio,24241,16/09/2020,11904,159,4,Go,91
+angular-styleguide,johnpapa,24168,16/09/2020,331,0,6,Não Informado,85
+awesome-php,ziadoz,24150,16/09/2020,363,0,7,Não Informado,97
+jieba,fxsjy,24106,16/09/2020,96,9,8,Python,27
+COVID-19,CSSEGISandData,24074,16/09/2020,135,0,0,Não Informado,48
+rethinkdb,rethinkdb,24017,16/09/2020,378,69,8,C++,78
+dotfiles,mathiasbynens,23993,16/09/2020,44,0,9,Shell,65
+fetch,github,23985,16/09/2020,136,34,6,JavaScript,100
+awesome-macos-command-line,herrbischoff,23892,16/09/2020,100,0,5,Não Informado,0
+symfony,symfony,23888,16/09/2020,14983,252,10,PHP,95
+minio,minio,23858,16/09/2020,5321,191,5,Go,99
+devdocs,freeCodeCamp,23845,16/09/2020,129,0,7,Ruby,85
+composer,composer,23796,16/09/2020,2068,86,9,PHP,94
+angular-cli,angular,23768,16/09/2020,4839,313,5,TypeScript,96
+terraform,hashicorp,23755,16/09/2020,8447,129,6,Go,92
+awesome-react-components,brillout,23739,16/09/2020,162,0,4,Não Informado,100
+Detectron,facebookresearch,23651,16/09/2020,0,0,3,Python,68
+nerd-fonts,ryanoasis,23650,16/09/2020,112,20,6,CSS,60
+spring-boot-examples,ityouknow,23599,16/09/2020,5,0,4,Java,98
+swift-algorithm-club,raywenderlich,23567,16/09/2020,605,0,4,Swift,93
+imgui,ocornut,23537,16/09/2020,247,67,6,C++,85
+date-fns,date-fns,23523,16/09/2020,660,82,6,JavaScript,81
+hoppscotch,hoppscotch,23518,16/09/2020,595,8,1,Vue,94
+iview,iview,23515,16/09/2020,526,85,4,Vue,81
+open-source-mac-os-apps,serhii-londar,23420,16/09/2020,375,0,3,Swift,86
+jadx,skylot,23381,16/09/2020,216,13,7,Java,82
+rclone,rclone,23355,16/09/2020,759,70,6,Go,81
+Charts,danielgindi,23302,16/09/2020,370,31,5,Swift,85
+marked,markedjs,23276,16/09/2020,369,23,9,JavaScript,92
+Hover,IanLunn,23262,16/09/2020,22,10,6,CSS,82
+p3c,alibaba,23175,16/09/2020,54,0,3,Kotlin,90
+postcss,postcss,23151,16/09/2020,583,158,7,TypeScript,99
+cypress,cypress-io,23109,16/09/2020,1742,215,5,JavaScript,80
+uppy,transloadit,23062,16/09/2020,1166,24,5,JavaScript,90
+SDWebImage,SDWebImage,23008,16/09/2020,742,90,11,Objective-C,99
+brew,Homebrew,23005,16/09/2020,5163,159,4,Ruby,99
+arthas,alibaba,23001,16/09/2020,289,25,2,Java,90
+project-guidelines,elsewhencode,22988,16/09/2020,103,0,3,JavaScript,67
+the-way-to-go_ZH_CN,unknwon,22971,16/09/2020,531,0,7,Go,0
+awesome-for-beginners,MunGell,22949,16/09/2020,271,0,5,Não Informado,100
+CodeHub,CodeHubApp,22947,16/09/2020,13,4,7,C#,64
+kubernetes-the-hard-way,kelseyhightower,22933,16/09/2020,68,0,4,Não Informado,89
+rxjs,ReactiveX,22902,16/09/2020,1868,0,5,TypeScript,88
+gitbook,GitbookIO,22885,16/09/2020,214,0,6,JavaScript,0
+Motrix,agalwood,22848,16/09/2020,100,10,2,JavaScript,61
+EventBus,greenrobot,22845,16/09/2020,29,5,8,Java,82
+tutorials,eugenp,22837,16/09/2020,6838,0,7,Java,95
+sequelize,sequelize,22826,16/09/2020,2664,347,10,JavaScript,90
+libpku,lib-pku,22815,16/09/2020,22,0,2,TeX,91
+sheetjs,SheetJS,22718,16/09/2020,74,0,8,JavaScript,80
+javascript-questions,lydiahallie,22712,16/09/2020,194,0,1,Não Informado,87
+bat,sharkdp,22678,16/09/2020,461,26,2,Rust,90
+vimrc,amix,22655,16/09/2020,72,0,8,Vim script,98
+webtorrent,webtorrent,22585,16/09/2020,400,0,7,JavaScript,88
+cheerio,cheeriojs,22573,16/09/2020,322,2,9,JavaScript,79
+ResumeSample,geekcompany,22516,16/09/2020,2,0,6,Não Informado,0
+particles.js,VincentGarreau,22510,16/09/2020,21,6,6,JavaScript,23
+mobx,mobxjs,22435,16/09/2020,749,2,5,JavaScript,99
+layui,sentsin,22399,16/09/2020,31,39,5,JavaScript,15
+fastjson,alibaba,22374,16/09/2020,353,79,9,Java,51
+gitlabhq,gitlabhq,22337,16/09/2020,2227,0,9,Ruby,0
+apollo,ctripcorp,22262,16/09/2020,923,27,4,Java,92
+metabase,metabase,22200,16/09/2020,4836,122,5,Clojure,77
+druid,alibaba,22187,16/09/2020,882,35,9,Java,39
+ghidra,NationalSecurityAgency,22184,16/09/2020,160,0,1,Java,56
+gym,openai,22162,16/09/2020,551,5,4,Python,88
+dive,wagoodman,22161,16/09/2020,106,23,2,Go,69
+chosen,harvesthq,22157,16/09/2020,309,34,9,HTML,90
+PowerShell,PowerShell,22112,16/09/2020,4386,80,4,C#,68
+framework,laravel,22075,16/09/2020,10122,299,7,PHP,100
+ace,ajaxorg,22048,16/09/2020,1354,0,10,JavaScript,73
+tesseract.js,naptha,22047,16/09/2020,74,31,5,JavaScript,89
+flutter-go,alibaba,22001,16/09/2020,158,4,1,Dart,48
+955.WLB,formulahendry,21989,16/09/2020,15,0,1,Não Informado,31
+lottie-web,airbnb,21976,16/09/2020,78,0,5,JavaScript,75
+awesome-deep-learning-papers,terryum,21953,16/09/2020,39,0,4,TeX,44
+tabler,tabler,21929,16/09/2020,151,7,2,HTML,78
+mastodon,tootsuite,21826,16/09/2020,7758,144,4,Ruby,71
+YouCompleteMe,ycm-core,21817,16/09/2020,650,0,8,Python,99
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,CamDavidsonPilon,21766,16/09/2020,235,0,7,Jupyter Notebook,40
+obs-studio,obsproject,21765,16/09/2020,1595,119,7,C,74
+drone,drone,21732,16/09/2020,836,0,6,Go,98
+linux-insides,0xAX,21703,16/09/2020,502,0,5,Python,77
+hammer.js,hammerjs,21702,16/09/2020,114,0,8,JavaScript,74
+uBlock,gorhill,21698,16/09/2020,122,169,5,JavaScript,98
+leveldb,google,21698,16/09/2020,29,20,6,C++,81
+Vundle.vim,VundleVim,21655,16/09/2020,86,0,10,Vim script,77
+fastText,facebookresearch,21642,16/09/2020,7,4,4,HTML,65
+nprogress,rstacruz,21612,16/09/2020,34,7,7,JavaScript,35
+streisand,StreisandEffect,21599,16/09/2020,527,0,6,Shell,83
+python-guide,realpython,21590,16/09/2020,659,0,9,Batchfile,67
+ripgrep,BurntSushi,21586,16/09/2020,374,65,4,Rust,95
+html2canvas,niklasvh,21567,16/09/2020,117,28,9,TypeScript,67
+monaco-editor,microsoft,21560,16/09/2020,80,0,4,JavaScript,78
+ember.js,emberjs,21546,16/09/2020,7251,346,9,JavaScript,96
+metasploit-framework,rapid7,21537,16/09/2020,8025,0,9,Ruby,81
+sails,balderdashy,21532,16/09/2020,505,39,8,JavaScript,94
+wtfpython,satwikkansal,21524,16/09/2020,73,2,3,Python,78
+SmartRefreshLayout,scwang90,21475,16/09/2020,6,8,3,Java,92
+mongoose,Automattic,21471,16/09/2020,1172,5,10,JavaScript,96
+cmder,cmderdev,21471,16/09/2020,315,27,7,C++,100
+polymer,Polymer,21452,16/09/2020,1061,115,8,HTML,94
+vim,vim,21333,16/09/2020,3,0,5,Vim script,77
+shellcheck,koalaman,21330,16/09/2020,222,25,8,Haskell,66
+ngx-admin,akveo,21312,16/09/2020,297,16,4,TypeScript,80
+nodemon,remy,21230,16/09/2020,259,70,10,JavaScript,99
+gitea,go-gitea,21219,16/09/2020,5864,97,4,Go,79
+FFmpeg,FFmpeg,21184,16/09/2020,15,11,9,C,0
+devise,heartcombo,21099,16/09/2020,730,14,11,Ruby,98
+CodeMirror,codemirror,21099,16/09/2020,418,134,9,JavaScript,90
+pure,pure-css,21069,16/09/2020,137,19,7,JavaScript,99
+blog,fouber,21064,16/09/2020,1,0,6,Não Informado,15
+handson-ml,ageron,21033,16/09/2020,46,0,4,Jupyter Notebook,78
+awesome-javascript,sorrycc,20988,16/09/2020,301,0,6,Não Informado,75
+fastapi,tiangolo,20984,16/09/2020,449,96,2,Python,78
+sweetalert,t4t5,20969,16/09/2020,82,13,6,TypeScript,81
+pipenv,pypa,20965,16/09/2020,979,12,3,Python,87
+Sortable,SortableJS,20950,16/09/2020,224,21,7,JavaScript,81
+react-select,JedWatson,20920,16/09/2020,821,12,6,JavaScript,90
+flow,facebook,20919,16/09/2020,158,183,6,OCaml,62
+aria2,aria2,20915,16/09/2020,194,22,10,C++,47
+typeorm,typeorm,20873,16/09/2020,1036,0,4,TypeScript,61
+the_silver_searcher,ggreer,20868,16/09/2020,398,0,9,C,52
+redux-saga,redux-saga,20849,16/09/2020,624,50,5,JavaScript,87
+ItChat,littlecodersh,20811,16/09/2020,29,13,4,Python,73
+interactive-coding-challenges,donnemartin,20795,16/09/2020,176,0,5,Python,54
+awesome-sysadmin,kahun,20792,16/09/2020,183,0,6,Não Informado,22
+BaseRecyclerViewAdapterHelper,CymChad,20731,16/09/2020,190,191,4,Java,92
+gorm,go-gorm,20726,16/09/2020,353,1,7,Go,100
+lighthouse,GoogleChrome,20719,16/09/2020,3295,59,4,JavaScript,94
+react-beautiful-dnd,atlassian,20718,16/09/2020,470,66,3,JavaScript,76
+HanLP,hankcs,20713,16/09/2020,62,50,6,Python,99
+pyenv,pyenv,20695,16/09/2020,419,28,8,Shell,82
+compose,docker,20676,16/09/2020,1924,138,7,Python,92
+wepy,Tencent,20655,16/09/2020,424,8,4,JavaScript,85
+spacemacs,syl20bnr,20608,16/09/2020,728,158,8,Emacs Lisp,91
+vagrant,hashicorp,20606,16/09/2020,2278,0,10,Ruby,96
+vim-plug,junegunn,20502,16/09/2020,151,4,7,Vim script,95
+octotree,ovity,20494,16/09/2020,249,0,6,Não Informado,93
+Daily-Interview-Question,Advanced-Frontend,20478,16/09/2020,14,0,1,JavaScript,59
+Awesome-Design-Tools,goabstract,20449,16/09/2020,282,0,1,JavaScript,100
+lottie-ios,airbnb,20361,16/09/2020,308,39,4,Swift,81
+PhotoSwipe,dimsemenov,20361,16/09/2020,49,11,9,JavaScript,67
+react-starter-kit,kriasoft,20348,16/09/2020,482,5,6,JavaScript,62
+awesome-electron,sindresorhus,20333,16/09/2020,236,0,5,Não Informado,80
+husky,typicode,20302,16/09/2020,139,34,6,JavaScript,72
+pandoc,jgm,20299,16/09/2020,1040,81,10,Haskell,88
+components,angular,20293,16/09/2020,7556,153,4,TypeScript,85
+Hystrix,Netflix,20287,16/09/2020,672,79,8,Java,67
+json,nlohmann,20287,16/09/2020,397,34,7,C++,99
+hub,github,20246,16/09/2020,393,60,11,Go,89
+modern-js-cheatsheet,mbeaudru,20203,16/09/2020,80,0,3,Não Informado,86
+calculator,microsoft,20193,16/09/2020,566,0,1,C++,77
+bootstrap-material-design,FezVrasta,20191,16/09/2020,193,28,6,CSS,95
+fonts,powerline,20176,16/09/2020,72,1,8,Shell,37
+consul,hashicorp,20163,16/09/2020,4006,17,7,Go,84
+iosched,google,20119,16/09/2020,57,2,6,Kotlin,83
+awesome-shell,alebcay,20030,16/09/2020,280,0,6,Não Informado,45
+dragula,bevacqua,20025,16/09/2020,57,0,5,JavaScript,61
+react-redux,reduxjs,20009,16/09/2020,356,91,5,JavaScript,98
+mpvue,Meituan-Dianping,19993,16/09/2020,64,19,2,JavaScript,75
+Blog,mqyqingfeng,19964,16/09/2020,3,0,3,Não Informado,45
+SwiftyJSON,SwiftyJSON,19961,16/09/2020,213,21,6,Swift,86
+react-virtualized,bvaughn,19944,16/09/2020,438,3,5,JavaScript,69
+awesome-python-cn,jobbole,19924,16/09/2020,45,0,5,Makefile,80
+mitmproxy,mitmproxy,19892,16/09/2020,1519,34,10,Python,88
+jsPDF,MrRio,19889,16/09/2020,615,26,11,JavaScript,94
+iptv,iptv-org,19876,16/09/2020,1227,0,2,JavaScript,77
+guzzle,guzzle,19876,16/09/2020,779,39,9,PHP,86
+ReactiveCocoa,ReactiveCocoa,19863,16/09/2020,1338,78,8,Swift,98
+pop,facebookarchive,19853,16/09/2020,100,3,6,Objective-C++,83
+mocha,mochajs,19801,16/09/2020,1021,55,9,JavaScript,90
+design-resources-for-developers,bradtraversy,19785,16/09/2020,403,0,0,Não Informado,100
+xgboost,dmlc,19781,16/09/2020,2050,26,6,C++,94
+DeepFaceLab,iperov,19769,16/09/2020,31,2,2,Python,80
+hosts,googlehosts,19766,16/09/2020,50,0,3,Não Informado,87
+dokku,dokku,19733,16/09/2020,1805,166,7,Shell,98
+RxJS,Reactive-Extensions,19714,16/09/2020,520,34,8,JavaScript,74
+awesome-swift,matteocrippa,19709,16/09/2020,1305,0,6,Swift,100
+react-redux-links,markerikson,19703,16/09/2020,58,0,4,Não Informado,61
+the-swift-programming-language-in-chinese,SwiftGGTeam,19653,16/09/2020,644,1,6,CSS,98
+emscripten,emscripten-core,19609,16/09/2020,5304,0,9,C++,87
+English-level-up-tips-for-Chinese,byoungd,19599,16/09/2020,20,0,3,Não Informado,80
+upterm,railsware,19572,16/09/2020,293,187,5,TypeScript,71
+influxdb,influxdata,19562,16/09/2020,7713,42,7,Go,90
+pug,pugjs,19550,16/09/2020,492,17,10,JavaScript,91
+gentelella,ColorlibHQ,19529,16/09/2020,161,7,5,HTML,97
+intro.js,usablica,19507,16/09/2020,141,18,7,HTML,63
+data-science-ipython-notebooks,donnemartin,19487,16/09/2020,31,0,5,Python,74
+drawio,jgraph,19482,16/09/2020,23,447,4,JavaScript,68
+GPUImage,BradLarson,19460,16/09/2020,241,3,8,Objective-C,59
+ramda,ramda,19457,16/09/2020,1193,24,7,JavaScript,87
+Real-Time-Voice-Cloning,CorentinJ,19446,16/09/2020,29,0,1,Python,92
+fastai,fastai,19445,16/09/2020,1247,4,3,Jupyter Notebook,97
+normalizr,paularmstrong,19437,16/09/2020,94,24,6,JavaScript,93
+tornado,tornadoweb,19421,16/09/2020,760,0,11,Python,89
+vapor,vapor,19399,16/09/2020,916,352,4,Swift,96
+The-Art-Of-Programming-By-July,julycoding,19379,16/09/2020,253,0,7,C,65
+react-native-elements,react-native-elements,19367,16/09/2020,761,63,4,JavaScript,98
+cheat.sh,chubin,19328,16/09/2020,82,0,3,Python,50
+waifu2x,nagadomi,19312,16/09/2020,63,3,5,Lua,60
+bluebird,petkaantonov,19299,16/09/2020,289,123,7,JavaScript,95
+docz,doczjs,19274,16/09/2020,344,126,2,TypeScript,96
+security-guide-for-developers,FallibleInc,19256,16/09/2020,26,0,4,Não Informado,33
+awesome-remote-job,lukasz-madon,19204,16/09/2020,475,0,5,Não Informado,90
+You-Dont-Need-jQuery,nefe,19201,16/09/2020,158,1,5,JavaScript,88
+algo,trailofbits,19196,16/09/2020,446,2,4,Python,95
+ngrok,inconshreveable,19191,16/09/2020,34,0,7,Go,61
+aspnetcore,dotnet,19186,16/09/2020,6014,93,6,C#,86
+learnGitBranching,pcottle,19171,16/09/2020,354,0,8,JavaScript,91
+profile-summary-for-github,tipsy,19146,16/09/2020,20,0,3,Vue,83
+docker-cheat-sheet,wsargent,19136,16/09/2020,128,0,6,Não Informado,81
+android-best-practices,futurice,19135,16/09/2020,80,0,6,Não Informado,73
+RxAndroid,ReactiveX,19131,16/09/2020,167,18,6,Java,100
+acme.sh,acmesh-official,19078,16/09/2020,922,29,5,Shell,70
+RxSwift,ReactiveX,19072,16/09/2020,683,64,5,Swift,99
+minikube,kubernetes,19072,16/09/2020,3632,100,4,Go,92
+enzyme,enzymejs,19070,16/09/2020,633,0,5,JavaScript,86
+docusaurus,facebook,19058,16/09/2020,2014,84,3,TypeScript,85
+DesignPatternsPHP,domnikl,19050,16/09/2020,224,0,9,PHP,98
+scrollreveal,jlmakes,19047,16/09/2020,32,0,6,JavaScript,97
+How-to-Make-a-Computer-Operating-System,SamyPesse,19014,16/09/2020,42,1,7,C,38
+NativeScript,NativeScript,19002,16/09/2020,2573,69,5,TypeScript,87
+iris,kataras,18995,16/09/2020,157,14,4,Go,98
+incubator-mxnet,apache,18984,16/09/2020,7781,22,5,C++,83
+cockroach,cockroachdb,18979,16/09/2020,24266,0,6,Go,88
+mattermost-server,mattermost,18929,16/09/2020,9207,210,5,Go,91
+Hero,HeroTransitions,18926,16/09/2020,94,35,4,Swift,68
+rollup,rollup,18916,16/09/2020,1156,209,5,JavaScript,91
+zju-icicles,QSCTech,18894,16/09/2020,95,0,4,HTML,85
+tmux,tmux,18879,16/09/2020,0,30,5,C,100
+draft-js,facebook,18876,16/09/2020,212,26,4,JavaScript,59
+feather,feathericons,18836,16/09/2020,91,50,6,JavaScript,42
+autoprefixer,postcss,18815,16/09/2020,240,156,7,JavaScript,97
+react-motion,chenglou,18813,16/09/2020,144,4,5,JavaScript,63
+django-rest-framework,encode,18797,16/09/2020,2505,13,9,Python,95
+mostly-adequate-guide,MostlyAdequate,18787,16/09/2020,263,0,5,JavaScript,80
+react-navigation,react-navigation,18778,16/09/2020,863,540,3,TypeScript,97
+darknet,pjreddie,18770,16/09/2020,9,0,6,C,23
+OpenAPI-Specification,OAI,18736,16/09/2020,599,8,6,JavaScript,71
+odoo,odoo,18718,16/09/2020,6077,0,6,JavaScript,89
+os-tutorial,cfenollosa,18718,16/09/2020,11,0,6,C,61
+commander.js,tj,18676,16/09/2020,403,47,9,JavaScript,98
+d2l-zh,d2l-ai,18675,16/09/2020,478,10,3,Python,0
+Python,geekcomputers,18662,16/09/2020,545,0,9,Python,44
+etcher,balena-io,18649,16/09/2020,1558,133,5,TypeScript,83
+selenium,SeleniumHQ,18647,16/09/2020,578,27,7,Java,96
+JavaFamily,AobingJava,18637,16/09/2020,2,0,1,Não Informado,79
+graphql-engine,hasura,18632,16/09/2020,1968,78,2,Haskell,66
+wtfjs,denysdovhan,18601,16/09/2020,57,0,3,JavaScript,39
+v,vlang,18597,16/09/2020,2920,25,1,V,76
+Aerial,JohnCoates,18595,16/09/2020,204,135,5,Swift,94
+Coursera-ML-AndrewNg-Notes,fengdu78,18572,16/09/2020,9,0,3,HTML,23
+es6tutorial,ruanyf,18560,16/09/2020,316,0,6,JavaScript,100
+mongo,mongodb,18557,16/09/2020,114,0,11,C++,0
+nightmare,segmentio,18555,16/09/2020,251,1,6,JavaScript,87
+openpose,CMU-Perceptual-Computing-Lab,18552,16/09/2020,130,14,3,C++,97
+web-starter-kit,google,18529,11/09/2020,234,14,6,HTML,92
+slate,ianstormtaylor,18529,16/09/2020,1121,18,4,TypeScript,89
+gson,google,18522,16/09/2020,203,0,5,Java,66
+vhr,lenve,18509,16/09/2020,0,0,2,Java,40
+fanqiang,bannedbook,18495,16/09/2020,1,12,5,Rich Text Format,62
+cobra,spf13,18495,16/09/2020,331,8,7,Go,71
+awesome-docker,veggiemonk,18491,16/09/2020,710,1,6,Não Informado,99
+skrollr,Prinzhorn,18456,16/09/2020,35,0,8,HTML,69
+flv.js,bilibili,18450,16/09/2020,16,12,4,JavaScript,48
+swagger-ui,swagger-api,18437,16/09/2020,1481,162,9,JavaScript,87
+js-stack-from-scratch,verekia,18419,16/09/2020,55,1,4,JavaScript,75
+nsq,nsqio,18403,16/09/2020,615,29,8,Go,92
+faas,openfaas,18393,16/09/2020,619,128,4,Go,91
+architecture-components-samples,android,18308,16/09/2020,183,0,3,Kotlin,83
+xi-editor,xi-editor,18303,16/09/2020,641,0,4,Rust,75
+react-bootstrap,react-bootstrap,18274,16/09/2020,2119,4,7,JavaScript,97
+fastclick,ftlabs,18260,16/09/2020,67,3,8,HTML,46
+ava,avajs,18259,16/09/2020,857,75,6,JavaScript,95
+vue-devtools,vuejs,18255,16/09/2020,198,35,6,JavaScript,73
+Wox,Wox-launcher,18253,16/09/2020,276,38,7,C#,85
+airflow,apache,18248,16/09/2020,5685,18,5,Python,67
+react-spring,pmndrs,18200,16/09/2020,210,4,2,JavaScript,86
+sqlmap,sqlmapproject,18174,16/09/2020,116,5,8,Python,99
+hiring-without-whiteboards,poteto,18139,16/09/2020,905,0,3,JavaScript,0
+material-dialogs,afollestad,18125,16/09/2020,179,92,6,Kotlin,96
+echo,labstack,18110,16/09/2020,321,79,5,Go,98
+hyperapp,jorgebucaran,18103,16/09/2020,246,26,3,JavaScript,97
+curl,curl,18098,16/09/2020,117,47,10,C,99
+ipfs,ipfs,18092,16/09/2020,119,0,6,Não Informado,100
+CodeIgniter,bcit-ci,18073,16/09/2020,1273,0,9,PHP,98
+plyr,sampotts,18070,16/09/2020,293,69,5,JavaScript,68
+Dress,komeiji-satori,18064,16/09/2020,386,0,2,Standard ML,73
+pytorch-tutorial,yunjey,18063,16/09/2020,28,0,3,Python,69
+the-super-tiny-compiler,jamiebuilds,18061,16/09/2020,20,0,4,JavaScript,0
+kit,go-kit,18034,16/09/2020,420,10,5,Go,87
+project-layout,golang-standards,18010,16/09/2020,22,0,3,Makefile,23
+helm,helm,17984,16/09/2020,2950,121,5,Go,90
+passport,jaredhanson,17945,16/09/2020,44,0,9,JavaScript,50
+corefx,dotnet,17904,16/09/2020,21726,92,6,Não Informado,0
+windows95,felixrieseberg,17879,16/09/2020,15,11,2,TypeScript,58
+iTerm2-Color-Schemes,mbadolato,17875,16/09/2020,173,0,9,Shell,79
+vault,hashicorp,17864,16/09/2020,5247,0,5,Go,84
+black,psf,17859,16/09/2020,427,4,2,Python,72
+algorithms,keon,17855,16/09/2020,368,0,4,Python,67
+monolog,Seldaek,17856,16/09/2020,568,40,9,PHP,96
+immer,immerjs,17840,16/09/2020,204,69,3,JavaScript,98
+parse-server,parse-community,17813,16/09/2020,2465,77,4,JavaScript,97
+popmotion,Popmotion,17813,16/09/2020,290,0,6,JavaScript,97
+Masonry,SnapKit,17811,16/09/2020,75,1,7,Objective-C,74
+spring-boot-demo,xkcoding,17805,16/09/2020,11,0,3,Java,55
+Skeleton,dhg,17802,16/09/2020,25,6,9,CSS,63
+joplin,laurent22,17798,16/09/2020,749,147,3,JavaScript,93
+yapi,YMFE,17797,16/09/2020,107,0,4,JavaScript,44
+architecture.of.internet-product,davideuler,17794,16/09/2020,1,0,2,Não Informado,30
+localForage,localForage,17773,16/09/2020,266,25,7,JavaScript,74
+awesome-vscode,viatsko,17768,16/09/2020,223,0,4,JavaScript,62
+jq,stedolan,17760,16/09/2020,205,9,8,C,69
+Mask_RCNN,matterport,17747,16/09/2020,65,3,3,Python,32
+rocksdb,facebook,17716,16/09/2020,546,125,8,C++,81
+jstraining,ruanyf,17704,16/09/2020,17,0,4,Não Informado,100
+servo,servo,17688,16/09/2020,13636,0,8,Rust,71
+python-fire,google,17685,16/09/2020,43,7,3,Python,64
+neural-style,jcjohnson,17660,16/09/2020,16,0,5,Lua,33
+picasso,square,17642,16/09/2020,473,7,7,Java,88
+sharp,lovell,17638,16/09/2020,176,29,7,JavaScript,96
+weex,alibaba,17557,16/09/2020,1083,6,4,Não Informado,71
+homebrew-cask,Homebrew,17428,16/09/2020,69507,81,8,Ruby,99
+docker_practice,yeasy,17418,16/09/2020,232,13,6,Go,98
+libgdx,libgdx,17407,16/09/2020,2109,4,8,Java,95
+SpinKit,tobiasahlin,17401,16/09/2020,51,9,7,CSS,95
+elixir,elixir-lang,17387,16/09/2020,5115,103,9,Elixir,100
+vuepress,vuejs,17371,16/09/2020,709,11,2,JavaScript,81
+react,typescript-cheatsheets,17364,16/09/2020,158,0,2,JavaScript,90
+react-native-web,necolas,17319,16/09/2020,22,15,5,JavaScript,95
+skill-map,TeamStuQ,17317,16/09/2020,42,2,5,HTML,18
+engineering-blogs,kilimchoi,17306,16/09/2020,679,0,5,Ruby,97
+lazygit,jesseduffield,17306,16/09/2020,409,98,2,Go,78
+ruby,ruby,17300,16/09/2020,853,0,10,Ruby,0
+generator-jhipster,jhipster,17276,16/09/2020,5729,4,7,JavaScript,98
+redash,getredash,17262,16/09/2020,2505,95,7,JavaScript,80
+vux,airyland,17225,16/09/2020,308,78,4,Vue,76
+macOS-Security-and-Privacy-Guide,drduh,17221,16/09/2020,130,0,5,Python,98
+seata,seata,17220,16/09/2020,1067,28,2,Java,77
+my-mac-os,nikitavoloboev,17212,16/09/2020,14,0,4,Não Informado,97
+spaCy,explosion,17208,16/09/2020,1661,68,6,Python,96
+npm,npm,17205,16/09/2020,439,261,11,Não Informado,88
+googletest,google,17195,16/09/2020,639,2,5,C++,93
+reselect,reduxjs,17185,16/09/2020,93,22,5,JavaScript,78
+howler.js,goldfire,17179,16/09/2020,115,21,7,JavaScript,82
+osquery,osquery,17173,16/09/2020,3433,105,6,C++,83
+PhotoView,chrisbanes,17129,16/09/2020,52,5,8,Java,76
+Boostnote,BoostIO,17122,16/09/2020,1071,15,4,JavaScript,82
+eslint,eslint,17114,16/09/2020,4554,220,7,JavaScript,99
+openpilot,commaai,17112,16/09/2020,949,24,4,C++,91
+hello-algorithm,geekxh,17109,16/09/2020,18,0,0,Java,100
+toBeTopJavaer,hollischuang,17105,16/09/2020,29,0,2,Java,66
+stackedit,benweet,17052,16/09/2020,35,13,7,JavaScript,63
+ChromeAppHeroes,zhaoolee,17048,16/09/2020,7,0,1,JavaScript,75
+highlight.js,highlightjs,17044,16/09/2020,910,8,9,JavaScript,97
+vue-router,vuejs,17022,16/09/2020,530,73,7,JavaScript,97
+apollo,ApolloAuto,17006,16/09/2020,8975,8,3,C++,78
+idiomatic.js,rwaldron,16976,16/09/2020,108,0,9,Não Informado,58
+NeteaseCloudMusicApi,Binaryify,16966,16/09/2020,90,95,4,JavaScript,96
+awesome-rust,rust-unofficial,16963,16/09/2020,802,0,6,Rust,84
+prisma1,prisma,16927,15/09/2020,1319,181,4,Scala,85
+gfwlist,gfwlist,16917,16/09/2020,0,0,5,Não Informado,74
+hosts,kelthuzadx,16915,15/09/2020,286,2,6,Rascal,100
+easyexcel,alibaba,16909,16/09/2020,47,1,2,Java,96
+miaosha,qiurunze123,16875,16/09/2020,8,0,2,Java,60
+CNTK,microsoft,16866,16/09/2020,257,32,5,C++,77
+kafka,apache,16864,16/09/2020,3325,0,9,Java,0
+flux,facebook,16834,16/09/2020,158,0,6,JavaScript,94
+SnapKit,SnapKit,16832,16/09/2020,111,11,6,Swift,86
+marktext,marktext,16815,16/09/2020,768,31,3,JavaScript,74
+glances,nicolargo,16803,16/09/2020,370,20,9,Python,85
+fabric.js,fabricjs,16792,16/09/2020,1402,105,10,JavaScript,95
+ML-From-Scratch,eriklindernoren,16776,16/09/2020,9,0,3,Python,60
+velocity,julianshapiro,16762,16/09/2020,54,18,6,TypeScript,95
+Android-Universal-Image-Loader,nostra13,16745,16/09/2020,51,0,9,Java,64
+tips,git-tips,16709,16/09/2020,127,0,5,JavaScript,59
+blueprint,palantir,16704,16/09/2020,1731,110,4,TypeScript,77
+SpringAll,wuyouzhuguli,16700,16/09/2020,1,0,2,Java,75
+Kingfisher,onevcat,16696,16/09/2020,435,136,5,Swift,95
+jquery-pjax,defunkt,16686,16/09/2020,81,11,9,JavaScript,88
+graphql-js,graphql,16679,16/09/2020,1638,111,5,JavaScript,88
+NLP-progress,sebastianruder,16677,16/09/2020,359,3,2,Python,76
+hhvm,facebook,16658,16/09/2020,88,15,10,C++,90
+halo,halo-dev,16645,16/09/2020,240,56,2,Java,90
+wekan,wekan,16632,16/09/2020,561,145,6,JavaScript,76
+source-code-pro,adobe-fonts,16619,16/09/2020,42,11,8,CSS,75
+material,angular,16616,16/09/2020,863,11,6,JavaScript,96
+RedisDesktopManager,uglide,16606,16/09/2020,279,64,7,C++,99
+phpunit,sebastianbergmann,16538,16/09/2020,689,0,11,PHP,96
+CS-Interview-Knowledge-Map,InterviewMap,16538,16/09/2020,60,0,2,Não Informado,73
+Micro8,Micropoor,16530,16/09/2020,2,0,1,Não Informado,71
+PayloadsAllTheThings,swisskyrepo,16530,16/09/2020,175,1,4,Python,83
+wenyan,wenyan-lang,16507,16/09/2020,160,13,1,TypeScript,65
+IntelliJ-IDEA-Tutorial,judasn,16506,16/09/2020,37,0,5,Não Informado,93
+algo,wangzheng0822,16502,16/09/2020,321,0,2,Python,20
+playwright,microsoft,16478,16/09/2020,2635,20,1,TypeScript,86
+pkg,vercel,16453,16/09/2020,49,22,4,JavaScript,39
+less.js,less,16419,15/09/2020,423,29,10,JavaScript,95
+fresco,facebook,16312,16/09/2020,81,42,5,Java,95
+ExoPlayer,google,16308,16/09/2020,447,2,6,Java,94
+js-cookie,js-cookie,16297,16/09/2020,51,29,5,JavaScript,99
+uikit,uikit,16256,16/09/2020,190,168,7,CSS,84
+validator.js,validatorjs,16251,16/09/2020,453,5,10,JavaScript,87
+notable,notable,16224,16/09/2020,25,20,2,TypeScript,65
+quasar,quasarframework,16203,16/09/2020,2266,342,5,JavaScript,96
+api-guidelines,microsoft,16200,16/09/2020,70,0,4,Não Informado,68
+lazydocker,jesseduffield,16186,16/09/2020,79,25,1,Go,51
+typeahead.js,twitter,16151,15/09/2020,106,0,7,JavaScript,69
+fks,JacksonTian,16137,16/09/2020,81,0,8,JavaScript,59
+jenkins,jenkinsci,16126,16/09/2020,3521,61,10,Java,0
+react-native-guide,reactnativecn,16093,15/09/2020,48,0,5,Não Informado,90
+hosts,StevenBlack,16083,16/09/2020,317,267,8,Python,96
+egg,eggjs,16079,16/09/2020,937,77,4,JavaScript,96
+winston,winstonjs,16067,16/09/2020,361,4,10,JavaScript,75
+mojs,mojs,16045,16/09/2020,38,14,6,JavaScript,75
+swoole-src,swoole,16038,16/09/2020,920,194,8,C++,98
+mint-ui,ElemeFE,16037,16/09/2020,297,11,4,Vue,80
+ZeroNet,HelloZeroNet,16034,16/09/2020,376,22,5,Python,69
+go,datasciencemasters,16032,16/09/2020,43,0,7,Não Informado,49
+cleave.js,nosir,16023,16/09/2020,132,66,4,JavaScript,72
+portainer,portainer,15987,16/09/2020,1217,74,4,JavaScript,79
+logrus,sirupsen,15975,16/09/2020,369,9,7,Go,89
+v8,v8,15970,16/09/2020,0,0,6,C++,0
+flexbox-layout,google,15964,16/09/2020,244,24,4,Kotlin,74
+awesome-tensorflow,jtoy,15955,16/09/2020,107,0,4,Não Informado,100
+node-lessons,alsotang,15919,16/09/2020,26,0,6,JavaScript,35
+chinese-independent-developer,1c7,15913,16/09/2020,93,0,3,Não Informado,96
+awesome-deep-learning,ChristosChristofidis,15828,16/09/2020,124,0,5,Não Informado,93
+libuv,libuv,15825,16/09/2020,455,0,7,C,94
+mysql,mysqljs,15820,16/09/2020,108,0,10,JavaScript,93
+anko,Kotlin,15808,16/09/2020,100,26,6,Kotlin,62
+tqdm,tqdm,15794,16/09/2020,207,89,5,Python,68
+SwitchyOmega,FelisCatus,15793,16/09/2020,7,51,8,CoffeeScript,80
+celery,celery,15791,16/09/2020,1321,10,11,Python,91
+edex-ui,GitSquared,15761,16/09/2020,348,23,3,JavaScript,92
+popper-core,popperjs,15754,16/09/2020,398,123,4,JavaScript,98
+100-Days-Of-ML-Code,MLEveryday,15753,16/09/2020,43,0,2,Jupyter Notebook,83
+fastify,fastify,15743,16/09/2020,1294,155,4,JavaScript,95
+dnSpy,0xd4d,15743,16/09/2020,51,2,5,C#,88
+MBProgressHUD,jdg,15709,15/09/2020,96,0,11,Objective-C,87
+electron-react-boilerplate,electron-react-boilerplate,15704,16/09/2020,649,42,5,TypeScript,97
+framework7,framework7io,15702,16/09/2020,377,142,6,JavaScript,97
+canal,alibaba,15694,16/09/2020,321,20,7,Java,88
+plaid,android,15681,16/09/2020,368,0,5,Kotlin,81
+joi,sideway,15665,16/09/2020,366,0,8,JavaScript,98
+vue-next,vuejs,15650,16/09/2020,946,50,2,TypeScript,93
+phoenix,phoenixframework,15646,16/09/2020,1615,20,6,Elixir,99
+hubot,hubotio,15639,16/09/2020,508,9,9,JavaScript,90
+hacker-laws,dwmkerr,15638,16/09/2020,138,0,2,Shell,33
+magenta,magenta,15622,16/09/2020,906,47,4,Python,68
+coffeescript,jashkenas,15615,16/09/2020,851,0,11,CoffeeScript,99
+ice,alibaba,15606,16/09/2020,1841,17,4,TypeScript,98
+zheng,shuzheng,15593,16/09/2020,10,0,4,Java,66
+folly,facebook,15592,16/09/2020,3,4,8,C++,71
+Public-APIs,n0shake,15573,16/09/2020,267,0,4,Não Informado,89
+spring-cloud-alibaba,alibaba,15566,16/09/2020,413,13,3,Java,77
+xxl-job,xuxueli,15559,16/09/2020,81,29,5,Java,83
+hutool,looly,15546,16/09/2020,99,65,6,Java,100
+fish-shell,fish-shell,15542,16/09/2020,990,28,8,Shell,91
+handlebars.js,handlebars-lang,15540,16/09/2020,301,0,10,JavaScript,95
+PHPMailer,PHPMailer,15532,16/09/2020,265,42,9,PHP,98
+DoraemonKit,didi,15522,16/09/2020,202,3,2,Java,88
+trix,basecamp,15477,16/09/2020,110,29,7,CoffeeScript,94
+reddit,reddit-archive,15474,16/09/2020,18,0,12,Python,0
+reverse-interview,viraptor,15460,16/09/2020,47,0,1,Não Informado,65
+python-cheatsheet,gto76,15450,16/09/2020,12,0,2,Python,80
+react-use,streamich,15447,16/09/2020,982,229,2,TypeScript,54
+homebridge,homebridge,15432,16/09/2020,272,14,6,TypeScript,100
+react-loadable,jamiebuilds,15414,16/09/2020,105,0,3,JavaScript,0
+hexo-theme-next,iissnan,15410,14/09/2020,274,18,6,CSS,97
+MS-DOS,microsoft,15407,16/09/2020,34,0,2,Assembly,94
+ruby-style-guide,rubocop-hq,15393,16/09/2020,337,0,9,Não Informado,78
+Mock,nuysoft,15393,16/09/2020,7,14,7,JavaScript,35
+vegeta,tsenart,15391,16/09/2020,129,62,7,Go,87
+bazel,bazelbuild,15351,16/09/2020,23,91,6,Java,76
+statsd,statsd,15320,16/09/2020,299,0,10,JavaScript,84
+superagent,visionmedia,15320,16/09/2020,403,65,9,JavaScript,88
+terminus,Eugeny,15317,16/09/2020,724,105,4,TypeScript,79
+tinker,Tencent,15312,16/09/2020,65,32,4,Java,76
+react-demos,ruanyf,15296,16/09/2020,19,0,5,JavaScript,100
+redux-thunk,reduxjs,15275,16/09/2020,48,12,5,JavaScript,98
+quick-look-plugins,sindresorhus,15220,16/09/2020,22,0,7,Não Informado,91
+HarmonyOS,Awesome-HarmonyOS,15217,16/09/2020,13,0,1,C,0
+eShopOnContainers,dotnet-architecture,15213,16/09/2020,314,7,4,C#,96
+cs-video-courses,Developer-Y,15200,16/09/2020,69,0,4,Não Informado,86
+NES.css,nostalgic-css,15189,16/09/2020,214,7,2,CSS,85
+rancher,rancher,15180,16/09/2020,4551,577,6,Go,86
+SwiftGuide,ipader,15176,16/09/2020,25,0,6,Swift,100
+eng-practices,google,15165,16/09/2020,8,0,1,Não Informado,67
+dropzone,enyo,15163,16/09/2020,68,32,8,JavaScript,0
+crystal,crystal-lang,15153,16/09/2020,3291,83,8,Crystal,82
+WaveFunctionCollapse,mxgmn,15150,16/09/2020,17,0,4,C#,92
+bower,bower,15135,16/09/2020,341,36,8,JavaScript,100
+DeepSpeech,mozilla,15135,16/09/2020,1227,96,4,C++,96
+reinforcement-learning,dennybritz,15130,16/09/2020,58,0,4,Jupyter Notebook,40
+iview-admin,iview,15118,16/09/2020,90,30,3,Vue,52
+libra,libra,15118,16/09/2020,942,0,1,Rust,76
+dva,dvajs,15099,16/09/2020,195,35,4,JavaScript,99
+chalk,chalk,15084,16/09/2020,77,18,7,JavaScript,97
+docsify,docsifyjs,15069,16/09/2020,362,9,4,JavaScript,88
+AR.js,jeromeetienne,15065,16/09/2020,77,0,3,HTML,99
+REKCARC-TSC-UHT,PKUanonym,15061,16/09/2020,55,0,1,HTML,59
+flatbuffers,google,15037,16/09/2020,926,17,6,C++,91
+dbeaver,dbeaver,15025,16/09/2020,810,111,5,Java,86
+jeecg-boot,zhangdaiscott,15011,16/09/2020,7,9,2,Java,98
+FileSaver.js,eligrey,14991,16/09/2020,65,14,9,JavaScript,82
+awesome-blockchain-cn,chaozh,14990,16/09/2020,7,0,3,JavaScript,72
+API-Security-Checklist,shieldfy,14980,16/09/2020,91,0,3,Não Informado,63
+micro,zyedidia,14963,16/09/2020,433,29,4,Go,74
+pace,HubSpot,14942,16/09/2020,28,23,7,CSS,33
+vant,youzan,14938,16/09/2020,2555,31,3,JavaScript,100
+relay,facebook,14928,16/09/2020,107,57,5,JavaScript,86
+jasmine,jasmine,14927,16/09/2020,279,40,12,JavaScript,95
+fd,sharkdp,14920,16/09/2020,197,23,3,Rust,88
+websocketd,joewalnes,14898,16/09/2020,83,6,7,Go,90
+masonry,desandro,14884,16/09/2020,10,22,11,HTML,97
+forem,forem,14881,16/09/2020,6241,0,4,Ruby,72
+pumpkin-book,datawhalechina,14878,16/09/2020,43,2,2,Não Informado,69
+material-components-web,material-components,14872,16/09/2020,3086,4,4,TypeScript,88
+GSYVideoPlayer,CarGuo,14869,16/09/2020,13,19,4,Java,99
+numpy,numpy,14866,16/09/2020,6617,57,10,Python,79
+q,kriskowal,14863,16/09/2020,149,0,10,JavaScript,82
+pwc,zziz,14857,16/09/2020,10,0,2,Não Informado,20
+TensorFlow-Course,instillai,14856,16/09/2020,7,1,2,Python,100
+parallax,wagerfield,14855,16/09/2020,14,11,7,JavaScript,81
+ToolsOfTheTrade,cjbarber,14848,16/09/2020,291,0,6,Não Informado,100
+kibana,elastic,14834,16/09/2020,44530,33,7,TypeScript,75
+ws,websockets,14820,16/09/2020,446,60,9,JavaScript,99
+games,leereilly,14817,16/09/2020,192,0,8,Não Informado,37
+recharts,recharts,14816,16/09/2020,258,0,5,TypeScript,91
+zepto,madrobby,14812,15/09/2020,218,18,10,HTML,91
+postgrest,PostgREST,14812,16/09/2020,494,27,6,Haskell,89
+mars,Tencent,14808,16/09/2020,49,6,4,C++,72
+keystone-classic,keystonejs,14807,16/09/2020,1740,16,7,JavaScript,88
+react-developer-roadmap,adam-golab,14792,16/09/2020,26,0,2,JavaScript,46
+Flat-UI,designmodo,14785,16/09/2020,38,1,7,CSS,96
+Telegram,DrKLO,14782,16/09/2020,17,32,7,C++,0
+svgo,svg,14772,16/09/2020,200,34,8,JavaScript,68
+ionicons,ionic-team,14748,16/09/2020,42,30,7,TypeScript,54
+zsh-autosuggestions,zsh-users,14746,16/09/2020,100,0,7,Shell,88
+medium-editor,yabwe,14745,16/09/2020,516,149,7,JavaScript,66
+sherlock,sherlock-project,14735,16/09/2020,303,0,2,Python,91
+lectures,oxford-cs-deepnlp-2017,14734,16/09/2020,4,0,3,Não Informado,39
+apollo-client,apollographql,14702,16/09/2020,3007,5,4,TypeScript,82
+Carbon,briannesbitt,14679,16/09/2020,926,164,8,PHP,99
+jsdom,jsdom,14672,16/09/2020,690,21,10,JavaScript,83
+envoy,envoyproxy,14672,16/09/2020,7332,34,4,C++,82
+css-protips,AllThingsSmitty,14669,16/09/2020,43,0,5,Não Informado,89
+cocos2d-x,cocos2d,14648,16/09/2020,12325,0,10,C++,73
+lime,limetext,14639,16/09/2020,160,0,8,Não Informado,95
+skywalking,apache,14638,16/09/2020,2375,40,5,Java,98
+N-blog,nswbmw,14628,16/09/2020,25,0,7,JavaScript,96
+SpaceVim,SpaceVim,14624,16/09/2020,1790,16,4,Vim script,97
+ccxt,ccxt,14606,16/09/2020,2317,0,3,JavaScript,93
+bootstrap,angular-ui,14602,16/09/2020,69,5,8,JavaScript,94
+recompose,acdlite,14597,16/09/2020,246,42,5,JavaScript,87
+professional-programming,charlax,14594,16/09/2020,20,0,5,Python,100
+pyspider,binux,14573,16/09/2020,90,13,6,Python,68
+delve,go-delve,14570,16/09/2020,797,8,6,Go,91
+spf13-vim,spf13,14562,16/09/2020,256,0,10,Vim script,57
+solarized,altercation,14552,15/09/2020,21,0,9,Vim script,39
+IQKeyboardManager,hackiftekhar,14550,16/09/2020,99,75,7,Objective-C,97
+draggable,Shopify,14540,16/09/2020,114,11,3,JavaScript,60
+ink,vadimdemedes,14529,16/09/2020,137,37,3,TypeScript,88
+awesome-falsehood,kdeldycke,14528,16/09/2020,33,0,4,Não Informado,85
+react-sketchapp,airbnb,14521,16/09/2020,189,28,3,TypeScript,91
+rough,rough-stuff,14505,16/09/2020,48,15,4,TypeScript,84
+rxdb,pubkey,14496,16/09/2020,1836,54,4,TypeScript,99
+Android-CleanArchitecture,android10,14487,16/09/2020,13,0,6,Java,50
+inferno,infernojs,14483,16/09/2020,531,159,5,JavaScript,95
+Best-App,hzlzh,14479,16/09/2020,49,0,7,Não Informado,53
+interview,huihut,14471,16/09/2020,26,0,2,C++,94
+cli,urfave,14469,16/09/2020,471,21,7,Go,91
+insomnia,Kong,14450,16/09/2020,623,130,4,JavaScript,75
+Awesome,Awesome-Windows,14441,16/09/2020,204,0,4,Não Informado,91
+homemade-machine-learning,trekhleb,14440,16/09/2020,2,0,2,Jupyter Notebook,39
+ratchet,twbs,14416,16/09/2020,231,4,8,CSS,62
+gotty,yudai,14416,16/09/2020,33,16,5,Go,62
+core,dotnet,14385,16/09/2020,1092,110,6,Shell,93
+ipython,ipython,14382,16/09/2020,5076,28,10,Python,79
+charts,helm,14355,16/09/2020,12884,0,5,Go,98
+setup-ipsec-vpn,hwdsl2,14300,16/09/2020,12,0,4,Shell,100
+react-dnd,react-dnd,14296,16/09/2020,1246,124,6,TypeScript,88
+redisson,redisson,14291,16/09/2020,236,85,6,Java,94
+HowToBeAProgrammer,braydie,14290,16/09/2020,84,0,4,Não Informado,81
+riot,riot,14289,16/09/2020,439,67,7,JavaScript,100
+WordPress,WordPress,14279,16/09/2020,0,0,9,PHP,0
+v2rayN,2dust,14268,16/09/2020,33,49,1,C#,71
+mybatis-3,mybatis,14256,16/09/2020,667,32,7,Java,88
+git-extras,tj,14250,16/09/2020,438,15,10,Shell,72
+cat,dianping,14241,16/09/2020,864,0,8,Java,93
+NativeBase,GeekyAnts,14238,16/09/2020,479,85,4,JavaScript,92
+CnC_Remastered_Collection,electronicarts,14236,16/09/2020,0,0,0,C++,20
+Awesome-Linux-Software,luong-komorebi,14236,16/09/2020,376,0,4,Python,89
+vim-airline,vim-airline,14215,16/09/2020,549,11,7,Vim script,98
+go-micro,micro,14209,16/09/2020,1121,85,5,Go,96
+handsontable,handsontable,14207,16/09/2020,601,175,9,JavaScript,89
+litemall,linlinjava,14201,16/09/2020,73,7,2,Java,90
+react-hook-form,react-hook-form,14196,16/09/2020,818,284,1,TypeScript,100
+download,getlantern,14185,16/09/2020,3,0,2,Não Informado,0
+toml,toml-lang,14161,16/09/2020,291,7,7,Python,93
+k3s,rancher,14161,16/09/2020,655,130,2,Go,57
+prepack,facebook,14155,16/09/2020,500,43,5,JavaScript,75
+SpringCloudLearning,forezp,14146,16/09/2020,0,0,3,Java,24
+flink,apache,14142,16/09/2020,2965,0,6,Java,0
+awesome-datascience,academic,14122,16/09/2020,158,0,6,Não Informado,94
+examples,pytorch,14115,16/09/2020,251,0,4,Python,52
+nacos,alibaba,14108,16/09/2020,764,29,2,Java,88
+BullshitGenerator,menzi11,14107,16/09/2020,7,0,1,JavaScript,20
+lazysizes,aFarkas,14105,16/09/2020,60,93,6,JavaScript,81
+nerdtree,preservim,14102,16/09/2020,272,0,12,Vim script,99
+spleeter,deezer,14101,16/09/2020,31,1,1,Python,79
+react-admin,marmelab,14098,16/09/2020,2147,151,4,TypeScript,96
+sanic,huge-success,14091,16/09/2020,821,30,4,Python,94
+mustache.js,janl,14087,16/09/2020,155,15,11,JavaScript,87
+realm-cocoa,realm,14069,16/09/2020,2136,162,8,Objective-C,91
+vimium,philc,14066,16/09/2020,573,0,11,JavaScript,73
+css-modules,css-modules,14066,16/09/2020,22,0,5,Não Informado,71
+pytudes,norvig,13987,16/09/2020,44,0,3,Jupyter Notebook,65
+bitcoinbook,bitcoinbook,13978,16/09/2020,265,3,7,Python,83
+bokeh,bokeh,13972,16/09/2020,3779,0,8,Python,91
+dgraph,dgraph-io,13956,16/09/2020,2820,78,5,Go,100
+lowdb,typicode,13951,16/09/2020,60,21,6,JavaScript,70
+react-helmet,nfl,13935,16/09/2020,166,3,5,JavaScript,62
+f8app,fbsamples,13904,16/09/2020,43,0,4,JavaScript,92
+Carthage,Carthage,13896,16/09/2020,934,72,6,Swift,92
+tfjs,tensorflow,13892,16/09/2020,1289,31,2,TypeScript,83
+wechat_jump_game,wangshub,13892,16/09/2020,146,2,3,Python,97
+aos,michalsnik,13892,16/09/2020,38,0,5,JavaScript,65
+p5.js,processing,13891,16/09/2020,1647,73,7,JavaScript,96
+jumpserver,jumpserver,13887,16/09/2020,1618,42,6,JavaScript,95
+data,fivethirtyeight,13887,16/09/2020,42,0,6,Jupyter Notebook,70
+react-native-vector-icons,oblador,13878,16/09/2020,144,58,5,JavaScript,72
+nps,ehang-io,13868,16/09/2020,62,57,2,Go,89
+RSSHub,DIYgod,13860,16/09/2020,3001,235,2,JavaScript,91
+blessed-contrib,yaronn,13848,16/09/2020,64,0,5,JavaScript,50
+SwiftLint,realm,13847,16/09/2020,1250,78,5,Swift,77
+leetcode,haoel,13829,16/09/2020,76,0,6,C++,67
+ui-router,angular-ui,13816,12/09/2020,308,57,7,TypeScript,100
+awesome-spider,facert,13803,16/09/2020,37,0,4,Não Informado,48
+Perfect,PerfectlySoft,13797,16/09/2020,74,1,5,Swift,74
+ShareX,ShareX,13794,16/09/2020,598,66,7,C#,91
+openssl,openssl,13792,16/09/2020,83,0,7,C,75
+locust,locustio,13789,16/09/2020,356,33,9,Python,96
+amphtml,ampproject,13787,16/09/2020,15288,549,5,JavaScript,84
+jitsi-meet,jitsi,13772,16/09/2020,3151,21,7,JavaScript,89
+incubator-weex,apache,13772,16/09/2020,1700,5,3,C++,78
+PySnooper,cool-RR,13764,16/09/2020,61,0,1,Python,85
+java8-tutorial,winterbe,13759,16/09/2020,10,0,6,Java,0
+functional-programming-jargon,hemanth,13753,15/09/2020,111,0,5,Não Informado,67
+Spring,MengTo,13732,16/09/2020,60,0,6,Swift,41
+nginx-proxy,nginx-proxy,13729,16/09/2020,176,0,6,Python,51
+OnJava8,LingCoder,13729,16/09/2020,399,0,2,Não Informado,84
+HikariCP,brettwooldridge,13727,16/09/2020,183,0,7,Java,82
+luigi,spotify,13716,16/09/2020,1709,49,8,Python,96
+Sentinel,alibaba,13714,16/09/2020,336,16,2,Java,83

@@ -18,7 +18,7 @@ class Query
               stargazers {
               totalCount
             }
-              pullRequests(states: OPEN){
+              pullRequests(states: MERGED){
               totalCount
               
             }
@@ -37,7 +37,7 @@ class Query
               totalCount
             }
               createdAt
-              updatedAt
+              pushedAt
               
             }
           }

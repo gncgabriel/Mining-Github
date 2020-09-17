@@ -3,10 +3,8 @@ require_once __DIR__ . './query.php';
 require_once __DIR__ . './conection.php';
 require_once __DIR__ . './formats.php';
 
-function searchRepositories($token, $pages = 0, $stars = null, $first = null)
+function searchRepositories($token, $pages = 0, $first = null, $stars = null)
 {
-
-  ini_set('max_execution_time', 0);
 
   set_error_handler(
     function ($errno, $errstr, $errfile, $errline) {
@@ -33,11 +31,13 @@ function searchRepositories($token, $pages = 0, $stars = null, $first = null)
       $nodes[] = formatNode($result['data']['search']['nodes']);
       $next_page = $result["data"]["search"]["pageInfo"]["hasNextPage"];
       $pageAtual++;
-
-      echo "\nPágina $pageAtual Carregada";
+      echo "\nPágina $pageAtual Carregada. Token Remaining: " . $result['data']['rateLimit']['remaining'];
     } catch (Exception $e) {
-      //echo "\nTentando Novamente\n";
+      // var_dump($result);
+      // var_dump($e);
+      echo "\nTentando Novamente";
     }
+
     ob_flush();
     ob_end_flush();
   }

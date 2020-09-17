@@ -18,6 +18,7 @@ function createCsv($data, $dir, $pages = null, $stars = null)
       $qtdResut++;
     }
   }
+
   $file = fopen($dir . '/repositorios.csv', 'w+');
   fwrite($file, $fileContent);
   fclose($file);
