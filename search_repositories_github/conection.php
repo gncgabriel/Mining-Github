@@ -9,7 +9,7 @@ function executaQuery($query, $token)
             'Authorization: Bearer ' . $token,
             'Content-Type: application/json',
             'user-agent: index.php',
-            'Content-Lenght: 999999'
+            'Content-Lenght: 9999999999999'
         ),
         CURLOPT_POSTFIELDS => json_encode($query)
     ));
@@ -28,8 +28,16 @@ function executaQuery($query, $token)
         if ($httpCode == 401) {
             echo "\r\n(401) - Erro no token de acesso: " . $responseData['message'];
             die;
+        } else if ($httpCode == 403) {
+            echo "\r\nErro ($httpCode) - " . $responseData['message'];
+            sleep(2);
+        } else if ($httpCode == 502) {
+            echo "\r\nErro ($httpCode) - " . $responseData['errors'][0]['message'];
+            sleep(2);
+        } else {
+            echo "\r\nErro ($httpCode) - ";
+            var_dump($responseData);
         }
-        echo "\r\nErro ($httpCode) - " . $responseData['message'];
     }
 
     return $responseData;

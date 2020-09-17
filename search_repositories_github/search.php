@@ -14,28 +14,29 @@ function searchRepositories($token, $pages = 0, $first = null, $stars = null)
 
   $query = new Query();
 
-  $next_page = true;
   $nodes = array();
   $pageAtual = 0;
 
   $after = null;
 
   $timeInit = microtime(true);
-  $errs = 0;
   while (($pageAtual < $pages)) {
     ob_start();
     try {
+      $timeWhile = microtime(true);
+
       $nextQuery['query'] = $query->mountQuery($stars, $first, $after);
       $result = executaQuery($nextQuery, $token);
       $after = $result["data"]["search"]["pageInfo"]["endCursor"];
       $nodes[] = formatNode($result['data']['search']['nodes']);
       $next_page = $result["data"]["search"]["pageInfo"]["hasNextPage"];
       $pageAtual++;
-      echo "\nPágina $pageAtual Carregada. Token Remaining: " . $result['data']['rateLimit']['remaining'];
+
+      $timeSearchPage = round((microtime(true) - $timeWhile), 2);
+      $timeTotal = round((microtime(true) - $timeInit) / 60, 2);
+      echo "\nPágina $pageAtual carregada.\nTempo Total Gasto: $timeTotal minutos.\n\n";
     } catch (Exception $e) {
-      // var_dump($result);
-      // var_dump($e);
-      echo "\nTentando Novamente";
+      echo "\n\nTentando Novamente";
     }
 
     ob_flush();

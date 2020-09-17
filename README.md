@@ -4,7 +4,7 @@
 [![PHP version 7.2.28](https://img.shields.io/badge/Version-7.2.28-blue)](https://www.php.net/)
 
 ## Como Executar
-O comando abaixo irá buscar 100 páginas, cada uma com o máximo de 10 repositórios por página (um total de 1000 repositórios), e os dados desses repositórios serão salvos em uma planilha .csv no diretório do projeto.
+O comando abaixo irá buscar 1000 (mil) repositórios, e os dados desses repositórios serão salvos em uma planilha .csv no diretório do projeto.
 
 ```bash
 php index.php {YOUR_TOKEN}

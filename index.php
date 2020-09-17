@@ -5,7 +5,7 @@ require_once __DIR__ . './search_repositories_github/csv.php';
 require_once __DIR__ . './search_repositories_github/search.php';
 
 $dir = __DIR__;
-$pages = 100;
+$pages = 200;
 
 $token = "TOKEN DE ACESSO";
 
@@ -22,11 +22,11 @@ echo "\nIniciando buscas de repositórios\r\n";
 ob_flush();
 ob_end_flush();
 
-$data = searchRepositories($token, $pages, 10);
+$data = searchRepositories($token, $pages, 5);
 
 if (count($data) > 0) {
     echo "\nRepositórios carregados com sucesso\n";
-    echo 'A consulta na API do Git demorou ' . $_SESSION['timeExec'] . ' minutos';
+    echo 'Todo o processo de consulta na API demorou ' . $_SESSION['timeExec'] . ' minutos';
     //Diretório para o CSV, Número máximo de páginas
     createCsv($data, $dir, $pages);
 }
