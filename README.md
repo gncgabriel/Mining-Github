@@ -14,7 +14,7 @@ php index.php {YOUR_TOKEN}
 php index.php 123456789
 ```
 
-#### Também é possível executar o programa pelo navegador de internet (Utilizando o Xampp ou afins)
+#### Também é possível executar o programa pelo navegador de internet
 
 Basta abrir o index.php no navegador de internet. O parâmetro __token__ irá definir o token de acesso.
 
