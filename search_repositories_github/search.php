@@ -36,7 +36,7 @@ function searchRepositories($token, $pages = 0, $first = null, $stars = null)
       $countRepo = count($result['data']['search']['nodes']);
       $countRepoTotal+=$countRepo;
       $timeTotal = round((microtime(true) - $timeInit) / 60, 2);
-      echo "\nPágina $pageAtual de $pages carregada com $countRepo repositórios.\nTempo Total Gasto: $timeTotal minutos.\nTotal de repositórios carregados: $countRepoTotal\n";
+      echo "\nPágina $pageAtual de $pages carregada com $countRepo repositórios.\nTempo Total Gasto: $timeTotal minutos.\nTotal de repositórios carregados: $countRepoTotal de 1000\n";
     } catch (Exception $e) {
       echo "\n\nTentando Novamente";
     }
