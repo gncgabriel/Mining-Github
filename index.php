@@ -9,8 +9,8 @@ $pages = 100;
 
 $token = "TOKEN DE ACESSO";
 
-if (isset($argv[2])) {
-    $token = $argv[2];
+if (isset($argv[1])) {
+    $token = $argv[1];
 } else if (isset($_GET['token'])) {
     $token = $_GET['token'];
 }
