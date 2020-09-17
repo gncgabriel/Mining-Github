@@ -19,6 +19,7 @@ function searchRepositories($token, $pages = 0, $first = null, $stars = null)
 
   $after = null;
 
+  $countRepoTotal = 0;
   $timeInit = microtime(true);
   while (($pageAtual < $pages)) {
     ob_start();
@@ -32,9 +33,10 @@ function searchRepositories($token, $pages = 0, $first = null, $stars = null)
       $next_page = $result["data"]["search"]["pageInfo"]["hasNextPage"];
       $pageAtual++;
 
-      $timeSearchPage = round((microtime(true) - $timeWhile), 2);
+      $countRepo = count($result['data']['search']['nodes']);
+      $countRepoTotal+=$countRepo;
       $timeTotal = round((microtime(true) - $timeInit) / 60, 2);
-      echo "\nPágina $pageAtual carregada.\nTempo Total Gasto: $timeTotal minutos.\n\n";
+      echo "\nPágina $pageAtual de $pages carregada com $countRepo repositórios.\nTempo Total Gasto: $timeTotal minutos.\nTotal de repositórios carregados: $countRepoTotal\n";
     } catch (Exception $e) {
       echo "\n\nTentando Novamente";
     }
